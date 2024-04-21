@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Defs>
+    <GeneDef Name="GeneBloodColorBase" Abstract="True">
+        <biostatCpx>0</biostatCpx>
+        <randomChosen>true</randomChosen>
+        <displayCategory>Blood_Color</displayCategory>
+        <exclusionTags>
+            <li>BloodColor</li>
+        </exclusionTags>
+    </GeneDef>
+
+    <!--=================== RED =================-->
+    <GeneDef ParentName="GeneBloodColorBase">
+        <defName>TESTINGBLOOD</defName>
+        <label>TESTING</label>
+        <description>BLOOD IS RED</description>
+        <iconPath>UI/Icons/Genes/BloodRedGene</iconPath>
+
+        <displayOrderInCategory>0</displayOrderInCategory>
+        <modExtensions>
+            <li Class="VanillaGenesExpanded.GeneExtension">
+                <customBloodThingDef>GEW_Blood_Filith_TESTING</customBloodThingDef>
+                <customBloodIcon>UI/Icons/Medical/RedBlood_BleedingIcon</customBloodIcon>
+                <customBloodEffect>GEB_Damage_Testing</customBloodEffect>
+                <customWoundsFromFleshtype>GEB_FLESHTYPE_TESTING</customWoundsFromFleshtype>
+            </li>
+        </modExtensions>
+    </GeneDef>
+</Defs>
