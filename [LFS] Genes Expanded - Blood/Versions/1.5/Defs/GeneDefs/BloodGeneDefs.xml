@@ -12,8 +12,8 @@
 
     <!--=================== RED =================-->
     <GeneDef ParentName="GeneBloodColorBase">
-        <defName>TESTINGBLOOD</defName>
-        <label>TESTING</label>
+        <defName>GEB_Blood_Red</defName>
+        <label>Red Blood</label>
         <description>BLOOD IS RED</description>
         <iconPath>UI/Icon/Genes/BloodColor_Icon</iconPath>
 
