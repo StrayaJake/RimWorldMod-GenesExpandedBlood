@@ -9,19 +9,12 @@ jobs:
     build_addon:
         runs-on: ubuntu-latest
         steps:
-          - uses: actions/checkout@v1
-          - name: Set VERSION env
-            run: 'echo VERSION=${GITHUB_REF:11} >> $GITHUB_ENV'
-          - name: Build addon with HEMTT
-            uses: 16AAModTeam/hemtt@stable
-            with:
-              command: build --release
-          - uses: arma-actions/workshop-upload@v1
-            with:
-              appId: '294100'
-              itemId: '3228450867'
-              contentPath: '[LFS] Genes Expanded - Blood'
-              changelog: Content of change notes
-            env:
-              STEAM_USERNAME: '${{ secrets.STEAM_USERNAME }}'
-              STEAM_PASSWORD: '${{ secrets.STEAM_PASSWORD }}'
+        - name: steam-workshop-upload
+          uses: weilbyte/steam-workshop-upload@v1
+          with: 
+            appid: 294100 # Game's Steam App ID
+            itemid: 3228450867 # Your mod's Steam Workshop ID
+            path: '[LFS] Genes Expanded - Blood' # Path to your mod's folder from repository root
+        env:
+            STEAM_USERNAME: ${{ secrets.STEAM_USERNAME }} # Your Steam username
+            STEAM_PASSWORD: ${{ secrets.STEAM_PASSWORD }} # Your Steam password
