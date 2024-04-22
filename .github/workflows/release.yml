@@ -24,6 +24,10 @@ jobs:
             curl -sqL https://steamcdn-a.akamaihd.net/client/installer/steamcmd_linux.tar.gz | tar zxvf -
             ./steamcmd.sh +quit
 
+        - name: Create Steam config directory
+          run: |
+            mkdir -p ~/.steam/config
+
         - name: Decode Steam Config
           env:
             STEAM_CONFIG_VDF: ${{ secrets.STEAM_CONFIGVDF }}
