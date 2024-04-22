@@ -37,3 +37,4 @@ jobs:
         - name: Update Workshop Item
           run: |
             ~/steamcmd/steamcmd.sh +login anonymous +workshop_build_item workshop.vdf +quit
+          working-directory: ${{ github.workspace }}
