@@ -50,10 +50,10 @@
                         <drawOffsetEastWest>(-0.03, 0, -0.24)</drawOffsetEastWest>
                     </li>
                     <li>
-                        <textureSouth>Things\Pawn\Wounds\Base_MissingEye_Fresh</textureSouth>
-                        <textureNorth>Things\Pawn\Wounds\Base_MissingEye_Fresh</textureNorth>
-                        <textureEast>Things\Pawn\Wounds\Base_MissingEye_Fresh</textureEast>
-                        <textureWest>Things\Pawn\Wounds\Base_MissingEye_Fresh</textureWest>
+                        <textureSouth>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureSouth>
+                        <textureNorth>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureNorth>
+                        <textureEast>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureEast>
+                        <textureWest>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureWest>
                         <color>(243, 240, 143)</color>
                         <flipWest>true</flipWest>
                         <onlyOnPart>Eye</onlyOnPart>
@@ -118,10 +118,10 @@
                         <drawOffsetEastWest>(-0.03, 0, -0.24)</drawOffsetEastWest>
                     </li>
                     <li>
-                        <textureSouth>Things\Pawn\Wounds\Base_MissingEye_Fresh</textureSouth>
-                        <textureNorth>Things\Pawn\Wounds\Base_MissingEye_Fresh</textureNorth>
-                        <textureEast>Things\Pawn\Wounds\Base_MissingEye_Fresh</textureEast>
-                        <textureWest>Things\Pawn\Wounds\Base_MissingEye_Fresh</textureWest>
+                        <textureSouth>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureSouth>
+                        <textureNorth>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureNorth>
+                        <textureEast>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureEast>
+                        <textureWest>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureWest>
                         <color>(254, 228, 131)</color>
                         <flipWest>true</flipWest>
                         <onlyOnPart>Eye</onlyOnPart>
@@ -186,10 +186,10 @@
                         <drawOffsetEastWest>(-0.03, 0, -0.24)</drawOffsetEastWest>
                     </li>
                     <li>
-                        <textureSouth>Things\Pawn\Wounds\Base_MissingEye_Fresh</textureSouth>
-                        <textureNorth>Things\Pawn\Wounds\Base_MissingEye_Fresh</textureNorth>
-                        <textureEast>Things\Pawn\Wounds\Base_MissingEye_Fresh</textureEast>
-                        <textureWest>Things\Pawn\Wounds\Base_MissingEye_Fresh</textureWest>
+                        <textureSouth>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureSouth>
+                        <textureNorth>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureNorth>
+                        <textureEast>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureEast>
+                        <textureWest>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureWest>
                         <color>(255, 211, 80)</color>
                         <flipWest>true</flipWest>
                         <onlyOnPart>Eye</onlyOnPart>
@@ -255,10 +255,10 @@
                         <drawOffsetEastWest>(-0.03, 0, -0.24)</drawOffsetEastWest>
                     </li>
                     <li>
-                        <textureSouth>Things\Pawn\Wounds\Base_MissingEye_Fresh</textureSouth>
-                        <textureNorth>Things\Pawn\Wounds\Base_MissingEye_Fresh</textureNorth>
-                        <textureEast>Things\Pawn\Wounds\Base_MissingEye_Fresh</textureEast>
-                        <textureWest>Things\Pawn\Wounds\Base_MissingEye_Fresh</textureWest>
+                        <textureSouth>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureSouth>
+                        <textureNorth>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureNorth>
+                        <textureEast>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureEast>
+                        <textureWest>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureWest>
                         <color>(248, 152, 29)</color>
                         <flipWest>true</flipWest>
                         <onlyOnPart>Eye</onlyOnPart>
@@ -323,10 +323,10 @@
                         <drawOffsetEastWest>(-0.03, 0, -0.24)</drawOffsetEastWest>
                     </li>
                     <li>
-                        <textureSouth>Things\Pawn\Wounds\Base_MissingEye_Fresh</textureSouth>
-                        <textureNorth>Things\Pawn\Wounds\Base_MissingEye_Fresh</textureNorth>
-                        <textureEast>Things\Pawn\Wounds\Base_MissingEye_Fresh</textureEast>
-                        <textureWest>Things\Pawn\Wounds\Base_MissingEye_Fresh</textureWest>
+                        <textureSouth>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureSouth>
+                        <textureNorth>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureNorth>
+                        <textureEast>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureEast>
+                        <textureWest>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureWest>
                         <color>(208, 112, 28)</color>
                         <flipWest>true</flipWest>
                         <onlyOnPart>Eye</onlyOnPart>
@@ -391,10 +391,10 @@
                         <drawOffsetEastWest>(-0.03, 0, -0.24)</drawOffsetEastWest>
                     </li>
                     <li>
-                        <textureSouth>Things\Pawn\Wounds\Base_MissingEye_Fresh</textureSouth>
-                        <textureNorth>Things\Pawn\Wounds\Base_MissingEye_Fresh</textureNorth>
-                        <textureEast>Things\Pawn\Wounds\Base_MissingEye_Fresh</textureEast>
-                        <textureWest>Things\Pawn\Wounds\Base_MissingEye_Fresh</textureWest>
+                        <textureSouth>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureSouth>
+                        <textureNorth>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureNorth>
+                        <textureEast>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureEast>
+                        <textureWest>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureWest>
                         <color>(229, 113, 30)</color>
                         <flipWest>true</flipWest>
                         <onlyOnPart>Eye</onlyOnPart>
@@ -459,10 +459,10 @@
                         <drawOffsetEastWest>(-0.03, 0, -0.24)</drawOffsetEastWest>
                     </li>
                     <li>
-                        <textureSouth>Things\Pawn\Wounds\Base_MissingEye_Fresh</textureSouth>
-                        <textureNorth>Things\Pawn\Wounds\Base_MissingEye_Fresh</textureNorth>
-                        <textureEast>Things\Pawn\Wounds\Base_MissingEye_Fresh</textureEast>
-                        <textureWest>Things\Pawn\Wounds\Base_MissingEye_Fresh</textureWest>
+                        <textureSouth>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureSouth>
+                        <textureNorth>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureNorth>
+                        <textureEast>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureEast>
+                        <textureWest>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureWest>
                         <color>(245, 116, 33)</color>
                         <flipWest>true</flipWest>
                         <onlyOnPart>Eye</onlyOnPart>
@@ -528,10 +528,10 @@
                         <drawOffsetEastWest>(-0.03, 0, -0.24)</drawOffsetEastWest>
                     </li>
                     <li>
-                        <textureSouth>Things\Pawn\Wounds\Base_MissingEye_Fresh</textureSouth>
-                        <textureNorth>Things\Pawn\Wounds\Base_MissingEye_Fresh</textureNorth>
-                        <textureEast>Things\Pawn\Wounds\Base_MissingEye_Fresh</textureEast>
-                        <textureWest>Things\Pawn\Wounds\Base_MissingEye_Fresh</textureWest>
+                        <textureSouth>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureSouth>
+                        <textureNorth>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureNorth>
+                        <textureEast>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureEast>
+                        <textureWest>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureWest>
                         <color>(227, 203, 225)</color>
                         <flipWest>true</flipWest>
                         <onlyOnPart>Eye</onlyOnPart>
@@ -596,10 +596,10 @@
                         <drawOffsetEastWest>(-0.03, 0, -0.24)</drawOffsetEastWest>
                     </li>
                     <li>
-                        <textureSouth>Things\Pawn\Wounds\Base_MissingEye_Fresh</textureSouth>
-                        <textureNorth>Things\Pawn\Wounds\Base_MissingEye_Fresh</textureNorth>
-                        <textureEast>Things\Pawn\Wounds\Base_MissingEye_Fresh</textureEast>
-                        <textureWest>Things\Pawn\Wounds\Base_MissingEye_Fresh</textureWest>
+                        <textureSouth>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureSouth>
+                        <textureNorth>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureNorth>
+                        <textureEast>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureEast>
+                        <textureWest>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureWest>
                         <color>(153, 108, 165)</color>
                         <flipWest>true</flipWest>
                         <onlyOnPart>Eye</onlyOnPart>
@@ -664,10 +664,10 @@
                         <drawOffsetEastWest>(-0.03, 0, -0.24)</drawOffsetEastWest>
                     </li>
                     <li>
-                        <textureSouth>Things\Pawn\Wounds\Base_MissingEye_Fresh</textureSouth>
-                        <textureNorth>Things\Pawn\Wounds\Base_MissingEye_Fresh</textureNorth>
-                        <textureEast>Things\Pawn\Wounds\Base_MissingEye_Fresh</textureEast>
-                        <textureWest>Things\Pawn\Wounds\Base_MissingEye_Fresh</textureWest>
+                        <textureSouth>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureSouth>
+                        <textureNorth>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureNorth>
+                        <textureEast>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureEast>
+                        <textureWest>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureWest>
                         <color>(192, 129, 184)</color>
                         <flipWest>true</flipWest>
                         <onlyOnPart>Eye</onlyOnPart>
@@ -732,10 +732,10 @@
                         <drawOffsetEastWest>(-0.03, 0, -0.24)</drawOffsetEastWest>
                     </li>
                     <li>
-                        <textureSouth>Things\Pawn\Wounds\Base_MissingEye_Fresh</textureSouth>
-                        <textureNorth>Things\Pawn\Wounds\Base_MissingEye_Fresh</textureNorth>
-                        <textureEast>Things\Pawn\Wounds\Base_MissingEye_Fresh</textureEast>
-                        <textureWest>Things\Pawn\Wounds\Base_MissingEye_Fresh</textureWest>
+                        <textureSouth>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureSouth>
+                        <textureNorth>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureNorth>
+                        <textureEast>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureEast>
+                        <textureWest>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureWest>
                         <color>(135, 33, 117)</color>
                         <flipWest>true</flipWest>
                         <onlyOnPart>Eye</onlyOnPart>
@@ -800,10 +800,10 @@
                         <drawOffsetEastWest>(-0.03, 0, -0.24)</drawOffsetEastWest>
                     </li>
                     <li>
-                        <textureSouth>Things\Pawn\Wounds\Base_MissingEye_Fresh</textureSouth>
-                        <textureNorth>Things\Pawn\Wounds\Base_MissingEye_Fresh</textureNorth>
-                        <textureEast>Things\Pawn\Wounds\Base_MissingEye_Fresh</textureEast>
-                        <textureWest>Things\Pawn\Wounds\Base_MissingEye_Fresh</textureWest>
+                        <textureSouth>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureSouth>
+                        <textureNorth>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureNorth>
+                        <textureEast>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureEast>
+                        <textureWest>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureWest>
                         <color>(146, 39, 143)</color>
                         <flipWest>true</flipWest>
                         <onlyOnPart>Eye</onlyOnPart>
@@ -868,10 +868,10 @@
                         <drawOffsetEastWest>(-0.03, 0, -0.24)</drawOffsetEastWest>
                     </li>
                     <li>
-                        <textureSouth>Things\Pawn\Wounds\Base_MissingEye_Fresh</textureSouth>
-                        <textureNorth>Things\Pawn\Wounds\Base_MissingEye_Fresh</textureNorth>
-                        <textureEast>Things\Pawn\Wounds\Base_MissingEye_Fresh</textureEast>
-                        <textureWest>Things\Pawn\Wounds\Base_MissingEye_Fresh</textureWest>
+                        <textureSouth>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureSouth>
+                        <textureNorth>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureNorth>
+                        <textureEast>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureEast>
+                        <textureWest>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureWest>
                         <color>(82, 35, 127)</color>
                         <flipWest>true</flipWest>
                         <onlyOnPart>Eye</onlyOnPart>
@@ -936,10 +936,10 @@
                         <drawOffsetEastWest>(-0.03, 0, -0.24)</drawOffsetEastWest>
                     </li>
                     <li>
-                        <textureSouth>Things\Pawn\Wounds\Base_MissingEye_Fresh</textureSouth>
-                        <textureNorth>Things\Pawn\Wounds\Base_MissingEye_Fresh</textureNorth>
-                        <textureEast>Things\Pawn\Wounds\Base_MissingEye_Fresh</textureEast>
-                        <textureWest>Things\Pawn\Wounds\Base_MissingEye_Fresh</textureWest>
+                        <textureSouth>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureSouth>
+                        <textureNorth>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureNorth>
+                        <textureEast>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureEast>
+                        <textureWest>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureWest>
                         <color>(54, 43, 112)</color>
                         <flipWest>true</flipWest>
                         <onlyOnPart>Eye</onlyOnPart>
@@ -1004,10 +1004,10 @@
                         <drawOffsetEastWest>(-0.03, 0, -0.24)</drawOffsetEastWest>
                     </li>
                     <li>
-                        <textureSouth>Things\Pawn\Wounds\Base_MissingEye_Fresh</textureSouth>
-                        <textureNorth>Things\Pawn\Wounds\Base_MissingEye_Fresh</textureNorth>
-                        <textureEast>Things\Pawn\Wounds\Base_MissingEye_Fresh</textureEast>
-                        <textureWest>Things\Pawn\Wounds\Base_MissingEye_Fresh</textureWest>
+                        <textureSouth>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureSouth>
+                        <textureNorth>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureNorth>
+                        <textureEast>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureEast>
+                        <textureWest>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureWest>
                         <color>(113, 112, 178)</color>
                         <flipWest>true</flipWest>
                         <onlyOnPart>Eye</onlyOnPart>
@@ -1072,10 +1072,10 @@
                         <drawOffsetEastWest>(-0.03, 0, -0.24)</drawOffsetEastWest>
                     </li>
                     <li>
-                        <textureSouth>Things\Pawn\Wounds\Base_MissingEye_Fresh</textureSouth>
-                        <textureNorth>Things\Pawn\Wounds\Base_MissingEye_Fresh</textureNorth>
-                        <textureEast>Things\Pawn\Wounds\Base_MissingEye_Fresh</textureEast>
-                        <textureWest>Things\Pawn\Wounds\Base_MissingEye_Fresh</textureWest>
+                        <textureSouth>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureSouth>
+                        <textureNorth>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureNorth>
+                        <textureEast>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureEast>
+                        <textureWest>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureWest>
                         <color>(58, 53, 120)</color>
                         <flipWest>true</flipWest>
                         <onlyOnPart>Eye</onlyOnPart>
@@ -1091,4 +1091,684 @@
         </hediffWounds>
     </FleshTypeDef>
 
+    <!--********************* Red *********************-->
+    <FleshTypeDef>
+        <defName>GEB_FleshType_Bubblegum</defName>
+        <corpseCategory>CorpsesAnimal</corpseCategory>
+        <damageEffecter>GEB_Damage_Bubblegum</damageEffecter>
+        <genericWounds>
+            <li>
+                <texture>Things/Pawn/Wounds/Base_WouldFleshA</texture>
+                <color>(243, 148, 190)</color>
+            </li>
+            <li>
+                <texture>Things/Pawn/Wounds/Base_WouldFleshB</texture>
+                <color>(243, 148, 190)</color>
+            </li>
+            <li>
+                <texture>Things/Pawn/Wounds/Base_WouldFleshC</texture>
+                <color>(243, 148, 190)</color>
+            </li>
+        </genericWounds>
+        <bandagedWounds>
+            <li>
+                <texture>Things/Pawn/Wounds/BandagedA</texture>
+            </li>
+            <li>
+                <texture>Things/Pawn/Wounds/BandagedB</texture>
+            </li>
+            <li>
+                <texture>Things/Pawn/Wounds/BandagedC</texture>
+            </li>
+        </bandagedWounds>
+        <hediffWounds>
+            <li>
+                <hediff>MissingBodyPart</hediff>
+                <wounds>
+                    <li>
+                        <textureSouth>Things/Pawn/Wounds/MissingEye_Scar_south</textureSouth>
+                        <textureNorth>Things/Pawn/Wounds/MissingEye_Scar_south</textureNorth>
+                        <textureEast>Things/Pawn/Wounds/MissingEye_Scar_east</textureEast>
+                        <textureWest>Things/Pawn/Wounds/MissingEye_Scar_east</textureWest>
+                        <flipWest>true</flipWest>
+                        <onlyOnPart>Eye</onlyOnPart>
+                        <flipOnWoundAnchorTag>LeftEye</flipOnWoundAnchorTag>
+                        <flipOnRotation>South</flipOnRotation>
+                        <tintWithSkinColor>true</tintWithSkinColor>
+                        <missingBodyPartFresh>false</missingBodyPartFresh>
+                        <scale>0.7</scale>
+                        <drawOffsetSouth>(0, 0, -0.24)</drawOffsetSouth>
+                        <drawOffsetEastWest>(-0.03, 0, -0.24)</drawOffsetEastWest>
+                    </li>
+                    <li>
+                        <textureSouth>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureSouth>
+                        <textureNorth>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureNorth>
+                        <textureEast>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureEast>
+                        <textureWest>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureWest>
+                        <color>(243, 148, 190)</color>
+                        <flipWest>true</flipWest>
+                        <onlyOnPart>Eye</onlyOnPart>
+                        <flipOnWoundAnchorTag>LeftEye</flipOnWoundAnchorTag>
+                        <flipOnRotation>South</flipOnRotation>
+                        <missingBodyPartFresh>true</missingBodyPartFresh>
+                        <scale>0.7</scale>
+                        <drawOffsetSouth>(0, 0, -0.24)</drawOffsetSouth>
+                        <drawOffsetEastWest>(-0.03, 0, -0.24)</drawOffsetEastWest>
+                    </li>
+                </wounds>
+            </li>
+        </hediffWounds>
+    </FleshTypeDef>
+
+    <FleshTypeDef>
+        <defName>GEB_FleshType_Fuchsia</defName>
+        <corpseCategory>CorpsesAnimal</corpseCategory>
+        <damageEffecter>GEB_Damage_Fuchsia</damageEffecter>
+        <genericWounds>
+            <li>
+                <texture>Things/Pawn/Wounds/Base_WouldFleshA</texture>
+                <color>(236, 6, 141)</color>
+            </li>
+            <li>
+                <texture>Things/Pawn/Wounds/Base_WouldFleshB</texture>
+                <color>(236, 6, 141)</color>
+            </li>
+            <li>
+                <texture>Things/Pawn/Wounds/Base_WouldFleshC</texture>
+                <color>(236, 6, 141)</color>
+            </li>
+        </genericWounds>
+        <bandagedWounds>
+            <li>
+                <texture>Things/Pawn/Wounds/BandagedA</texture>
+            </li>
+            <li>
+                <texture>Things/Pawn/Wounds/BandagedB</texture>
+            </li>
+            <li>
+                <texture>Things/Pawn/Wounds/BandagedC</texture>
+            </li>
+        </bandagedWounds>
+        <hediffWounds>
+            <li>
+                <hediff>MissingBodyPart</hediff>
+                <wounds>
+                    <li>
+                        <textureSouth>Things/Pawn/Wounds/MissingEye_Scar_south</textureSouth>
+                        <textureNorth>Things/Pawn/Wounds/MissingEye_Scar_south</textureNorth>
+                        <textureEast>Things/Pawn/Wounds/MissingEye_Scar_east</textureEast>
+                        <textureWest>Things/Pawn/Wounds/MissingEye_Scar_east</textureWest>
+                        <flipWest>true</flipWest>
+                        <onlyOnPart>Eye</onlyOnPart>
+                        <flipOnWoundAnchorTag>LeftEye</flipOnWoundAnchorTag>
+                        <flipOnRotation>South</flipOnRotation>
+                        <tintWithSkinColor>true</tintWithSkinColor>
+                        <missingBodyPartFresh>false</missingBodyPartFresh>
+                        <scale>0.7</scale>
+                        <drawOffsetSouth>(0, 0, -0.24)</drawOffsetSouth>
+                        <drawOffsetEastWest>(-0.03, 0, -0.24)</drawOffsetEastWest>
+                    </li>
+                    <li>
+                        <textureSouth>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureSouth>
+                        <textureNorth>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureNorth>
+                        <textureEast>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureEast>
+                        <textureWest>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureWest>
+                        <color>(236, 6, 141)</color>
+                        <flipWest>true</flipWest>
+                        <onlyOnPart>Eye</onlyOnPart>
+                        <flipOnWoundAnchorTag>LeftEye</flipOnWoundAnchorTag>
+                        <flipOnRotation>South</flipOnRotation>
+                        <missingBodyPartFresh>true</missingBodyPartFresh>
+                        <scale>0.7</scale>
+                        <drawOffsetSouth>(0, 0, -0.24)</drawOffsetSouth>
+                        <drawOffsetEastWest>(-0.03, 0, -0.24)</drawOffsetEastWest>
+                    </li>
+                </wounds>
+            </li>
+        </hediffWounds>
+    </FleshTypeDef>
+
+    <FleshTypeDef>
+        <defName>GEB_FleshType_Rose</defName>
+        <corpseCategory>CorpsesAnimal</corpseCategory>
+        <damageEffecter>GEB_Damage_Rose</damageEffecter>
+        <genericWounds>
+            <li>
+                <texture>Things/Pawn/Wounds/Base_WouldFleshA</texture>
+                <color>(212, 32, 43)</color>
+            </li>
+            <li>
+                <texture>Things/Pawn/Wounds/Base_WouldFleshB</texture>
+                <color>(212, 32, 43)</color>
+            </li>
+            <li>
+                <texture>Things/Pawn/Wounds/Base_WouldFleshC</texture>
+                <color>(212, 32, 43)</color>
+            </li>
+        </genericWounds>
+        <bandagedWounds>
+            <li>
+                <texture>Things/Pawn/Wounds/BandagedA</texture>
+            </li>
+            <li>
+                <texture>Things/Pawn/Wounds/BandagedB</texture>
+            </li>
+            <li>
+                <texture>Things/Pawn/Wounds/BandagedC</texture>
+            </li>
+        </bandagedWounds>
+        <hediffWounds>
+            <li>
+                <hediff>MissingBodyPart</hediff>
+                <wounds>
+                    <li>
+                        <textureSouth>Things/Pawn/Wounds/MissingEye_Scar_south</textureSouth>
+                        <textureNorth>Things/Pawn/Wounds/MissingEye_Scar_south</textureNorth>
+                        <textureEast>Things/Pawn/Wounds/MissingEye_Scar_east</textureEast>
+                        <textureWest>Things/Pawn/Wounds/MissingEye_Scar_east</textureWest>
+                        <flipWest>true</flipWest>
+                        <onlyOnPart>Eye</onlyOnPart>
+                        <flipOnWoundAnchorTag>LeftEye</flipOnWoundAnchorTag>
+                        <flipOnRotation>South</flipOnRotation>
+                        <tintWithSkinColor>true</tintWithSkinColor>
+                        <missingBodyPartFresh>false</missingBodyPartFresh>
+                        <scale>0.7</scale>
+                        <drawOffsetSouth>(0, 0, -0.24)</drawOffsetSouth>
+                        <drawOffsetEastWest>(-0.03, 0, -0.24)</drawOffsetEastWest>
+                    </li>
+                    <li>
+                        <textureSouth>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureSouth>
+                        <textureNorth>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureNorth>
+                        <textureEast>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureEast>
+                        <textureWest>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureWest>
+                        <color>(212, 32, 43)</color>
+                        <flipWest>true</flipWest>
+                        <onlyOnPart>Eye</onlyOnPart>
+                        <flipOnWoundAnchorTag>LeftEye</flipOnWoundAnchorTag>
+                        <flipOnRotation>South</flipOnRotation>
+                        <missingBodyPartFresh>true</missingBodyPartFresh>
+                        <scale>0.7</scale>
+                        <drawOffsetSouth>(0, 0, -0.24)</drawOffsetSouth>
+                        <drawOffsetEastWest>(-0.03, 0, -0.24)</drawOffsetEastWest>
+                    </li>
+                </wounds>
+            </li>
+        </hediffWounds>
+    </FleshTypeDef>
+
+    <FleshTypeDef>
+        <defName>GEB_FleshType_Raspberry</defName>
+        <corpseCategory>CorpsesAnimal</corpseCategory>
+        <damageEffecter>GEB_Damage_Raspberry</damageEffecter>
+        <genericWounds>
+            <li>
+                <texture>Things/Pawn/Wounds/Base_WouldFleshA</texture>
+                <color>(201, 1, 108)</color>
+            </li>
+            <li>
+                <texture>Things/Pawn/Wounds/Base_WouldFleshB</texture>
+                <color>(201, 1, 108)</color>
+            </li>
+            <li>
+                <texture>Things/Pawn/Wounds/Base_WouldFleshC</texture>
+                <color>(201, 1, 108)</color>
+            </li>
+        </genericWounds>
+        <bandagedWounds>
+            <li>
+                <texture>Things/Pawn/Wounds/BandagedA</texture>
+            </li>
+            <li>
+                <texture>Things/Pawn/Wounds/BandagedB</texture>
+            </li>
+            <li>
+                <texture>Things/Pawn/Wounds/BandagedC</texture>
+            </li>
+        </bandagedWounds>
+        <hediffWounds>
+            <li>
+                <hediff>MissingBodyPart</hediff>
+                <wounds>
+                    <li>
+                        <textureSouth>Things/Pawn/Wounds/MissingEye_Scar_south</textureSouth>
+                        <textureNorth>Things/Pawn/Wounds/MissingEye_Scar_south</textureNorth>
+                        <textureEast>Things/Pawn/Wounds/MissingEye_Scar_east</textureEast>
+                        <textureWest>Things/Pawn/Wounds/MissingEye_Scar_east</textureWest>
+                        <flipWest>true</flipWest>
+                        <onlyOnPart>Eye</onlyOnPart>
+                        <flipOnWoundAnchorTag>LeftEye</flipOnWoundAnchorTag>
+                        <flipOnRotation>South</flipOnRotation>
+                        <tintWithSkinColor>true</tintWithSkinColor>
+                        <missingBodyPartFresh>false</missingBodyPartFresh>
+                        <scale>0.7</scale>
+                        <drawOffsetSouth>(0, 0, -0.24)</drawOffsetSouth>
+                        <drawOffsetEastWest>(-0.03, 0, -0.24)</drawOffsetEastWest>
+                    </li>
+                    <li>
+                        <textureSouth>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureSouth>
+                        <textureNorth>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureNorth>
+                        <textureEast>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureEast>
+                        <textureWest>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureWest>
+                        <color>(201, 1, 108)</color>
+                        <flipWest>true</flipWest>
+                        <onlyOnPart>Eye</onlyOnPart>
+                        <flipOnWoundAnchorTag>LeftEye</flipOnWoundAnchorTag>
+                        <flipOnRotation>South</flipOnRotation>
+                        <missingBodyPartFresh>true</missingBodyPartFresh>
+                        <scale>0.7</scale>
+                        <drawOffsetSouth>(0, 0, -0.24)</drawOffsetSouth>
+                        <drawOffsetEastWest>(-0.03, 0, -0.24)</drawOffsetEastWest>
+                    </li>
+                </wounds>
+            </li>
+        </hediffWounds>
+    </FleshTypeDef>
+
+    <FleshTypeDef>
+        <defName>GEB_FleshType_Redfish</defName>
+        <corpseCategory>CorpsesAnimal</corpseCategory>
+        <damageEffecter>GEB_Damage_Redfish</damageEffecter>
+        <genericWounds>
+            <li>
+                <texture>Things/Pawn/Wounds/Base_WouldFleshA</texture>
+                <color>(239, 49, 37)</color>
+            </li>
+            <li>
+                <texture>Things/Pawn/Wounds/Base_WouldFleshB</texture>
+                <color>(239, 49, 37)</color>
+            </li>
+            <li>
+                <texture>Things/Pawn/Wounds/Base_WouldFleshC</texture>
+                <color>(239, 49, 37)</color>
+            </li>
+        </genericWounds>
+        <bandagedWounds>
+            <li>
+                <texture>Things/Pawn/Wounds/BandagedA</texture>
+            </li>
+            <li>
+                <texture>Things/Pawn/Wounds/BandagedB</texture>
+            </li>
+            <li>
+                <texture>Things/Pawn/Wounds/BandagedC</texture>
+            </li>
+        </bandagedWounds>
+        <hediffWounds>
+            <li>
+                <hediff>MissingBodyPart</hediff>
+                <wounds>
+                    <li>
+                        <textureSouth>Things/Pawn/Wounds/MissingEye_Scar_south</textureSouth>
+                        <textureNorth>Things/Pawn/Wounds/MissingEye_Scar_south</textureNorth>
+                        <textureEast>Things/Pawn/Wounds/MissingEye_Scar_east</textureEast>
+                        <textureWest>Things/Pawn/Wounds/MissingEye_Scar_east</textureWest>
+                        <flipWest>true</flipWest>
+                        <onlyOnPart>Eye</onlyOnPart>
+                        <flipOnWoundAnchorTag>LeftEye</flipOnWoundAnchorTag>
+                        <flipOnRotation>South</flipOnRotation>
+                        <tintWithSkinColor>true</tintWithSkinColor>
+                        <missingBodyPartFresh>false</missingBodyPartFresh>
+                        <scale>0.7</scale>
+                        <drawOffsetSouth>(0, 0, -0.24)</drawOffsetSouth>
+                        <drawOffsetEastWest>(-0.03, 0, -0.24)</drawOffsetEastWest>
+                    </li>
+                    <li>
+                        <textureSouth>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureSouth>
+                        <textureNorth>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureNorth>
+                        <textureEast>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureEast>
+                        <textureWest>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureWest>
+                        <color>(239, 49, 37)</color>
+                        <flipWest>true</flipWest>
+                        <onlyOnPart>Eye</onlyOnPart>
+                        <flipOnWoundAnchorTag>LeftEye</flipOnWoundAnchorTag>
+                        <flipOnRotation>South</flipOnRotation>
+                        <missingBodyPartFresh>true</missingBodyPartFresh>
+                        <scale>0.7</scale>
+                        <drawOffsetSouth>(0, 0, -0.24)</drawOffsetSouth>
+                        <drawOffsetEastWest>(-0.03, 0, -0.24)</drawOffsetEastWest>
+                    </li>
+                </wounds>
+            </li>
+        </hediffWounds>
+    </FleshTypeDef>
+
+    <FleshTypeDef>
+        <defName>GEB_FleshType_FireRed</defName>
+        <corpseCategory>CorpsesAnimal</corpseCategory>
+        <damageEffecter>GEB_Damage_FireRed</damageEffecter>
+        <genericWounds>
+            <li>
+                <texture>Things/Pawn/Wounds/Base_WouldFleshA</texture>
+                <color>(225, 29, 53)</color>
+            </li>
+            <li>
+                <texture>Things/Pawn/Wounds/Base_WouldFleshB</texture>
+                <color>(225, 29, 53)</color>
+            </li>
+            <li>
+                <texture>Things/Pawn/Wounds/Base_WouldFleshC</texture>
+                <color>(225, 29, 53)</color>
+            </li>
+        </genericWounds>
+        <bandagedWounds>
+            <li>
+                <texture>Things/Pawn/Wounds/BandagedA</texture>
+            </li>
+            <li>
+                <texture>Things/Pawn/Wounds/BandagedB</texture>
+            </li>
+            <li>
+                <texture>Things/Pawn/Wounds/BandagedC</texture>
+            </li>
+        </bandagedWounds>
+        <hediffWounds>
+            <li>
+                <hediff>MissingBodyPart</hediff>
+                <wounds>
+                    <li>
+                        <textureSouth>Things/Pawn/Wounds/MissingEye_Scar_south</textureSouth>
+                        <textureNorth>Things/Pawn/Wounds/MissingEye_Scar_south</textureNorth>
+                        <textureEast>Things/Pawn/Wounds/MissingEye_Scar_east</textureEast>
+                        <textureWest>Things/Pawn/Wounds/MissingEye_Scar_east</textureWest>
+                        <flipWest>true</flipWest>
+                        <onlyOnPart>Eye</onlyOnPart>
+                        <flipOnWoundAnchorTag>LeftEye</flipOnWoundAnchorTag>
+                        <flipOnRotation>South</flipOnRotation>
+                        <tintWithSkinColor>true</tintWithSkinColor>
+                        <missingBodyPartFresh>false</missingBodyPartFresh>
+                        <scale>0.7</scale>
+                        <drawOffsetSouth>(0, 0, -0.24)</drawOffsetSouth>
+                        <drawOffsetEastWest>(-0.03, 0, -0.24)</drawOffsetEastWest>
+                    </li>
+                    <li>
+                        <textureSouth>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureSouth>
+                        <textureNorth>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureNorth>
+                        <textureEast>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureEast>
+                        <textureWest>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureWest>
+                        <color>(225, 29, 53)</color>
+                        <flipWest>true</flipWest>
+                        <onlyOnPart>Eye</onlyOnPart>
+                        <flipOnWoundAnchorTag>LeftEye</flipOnWoundAnchorTag>
+                        <flipOnRotation>South</flipOnRotation>
+                        <missingBodyPartFresh>true</missingBodyPartFresh>
+                        <scale>0.7</scale>
+                        <drawOffsetSouth>(0, 0, -0.24)</drawOffsetSouth>
+                        <drawOffsetEastWest>(-0.03, 0, -0.24)</drawOffsetEastWest>
+                    </li>
+                </wounds>
+            </li>
+        </hediffWounds>
+    </FleshTypeDef>
+
+    <FleshTypeDef>
+        <defName>GEB_FleshType_MarsRed</defName>
+        <corpseCategory>CorpsesAnimal</corpseCategory>
+        <damageEffecter>GEB_Damage_MarsRed</damageEffecter>
+        <genericWounds>
+            <li>
+                <texture>Things/Pawn/Wounds/Base_WouldFleshA</texture>
+                <color>(194, 44, 29)</color>
+            </li>
+            <li>
+                <texture>Things/Pawn/Wounds/Base_WouldFleshB</texture>
+                <color>(194, 44, 29)</color>
+            </li>
+            <li>
+                <texture>Things/Pawn/Wounds/Base_WouldFleshC</texture>
+                <color>(194, 44, 29)</color>
+            </li>
+        </genericWounds>
+        <bandagedWounds>
+            <li>
+                <texture>Things/Pawn/Wounds/BandagedA</texture>
+            </li>
+            <li>
+                <texture>Things/Pawn/Wounds/BandagedB</texture>
+            </li>
+            <li>
+                <texture>Things/Pawn/Wounds/BandagedC</texture>
+            </li>
+        </bandagedWounds>
+        <hediffWounds>
+            <li>
+                <hediff>MissingBodyPart</hediff>
+                <wounds>
+                    <li>
+                        <textureSouth>Things/Pawn/Wounds/MissingEye_Scar_south</textureSouth>
+                        <textureNorth>Things/Pawn/Wounds/MissingEye_Scar_south</textureNorth>
+                        <textureEast>Things/Pawn/Wounds/MissingEye_Scar_east</textureEast>
+                        <textureWest>Things/Pawn/Wounds/MissingEye_Scar_east</textureWest>
+                        <flipWest>true</flipWest>
+                        <onlyOnPart>Eye</onlyOnPart>
+                        <flipOnWoundAnchorTag>LeftEye</flipOnWoundAnchorTag>
+                        <flipOnRotation>South</flipOnRotation>
+                        <tintWithSkinColor>true</tintWithSkinColor>
+                        <missingBodyPartFresh>false</missingBodyPartFresh>
+                        <scale>0.7</scale>
+                        <drawOffsetSouth>(0, 0, -0.24)</drawOffsetSouth>
+                        <drawOffsetEastWest>(-0.03, 0, -0.24)</drawOffsetEastWest>
+                    </li>
+                    <li>
+                        <textureSouth>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureSouth>
+                        <textureNorth>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureNorth>
+                        <textureEast>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureEast>
+                        <textureWest>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureWest>
+                        <color>(194, 44, 29)</color>
+                        <flipWest>true</flipWest>
+                        <onlyOnPart>Eye</onlyOnPart>
+                        <flipOnWoundAnchorTag>LeftEye</flipOnWoundAnchorTag>
+                        <flipOnRotation>South</flipOnRotation>
+                        <missingBodyPartFresh>true</missingBodyPartFresh>
+                        <scale>0.7</scale>
+                        <drawOffsetSouth>(0, 0, -0.24)</drawOffsetSouth>
+                        <drawOffsetEastWest>(-0.03, 0, -0.24)</drawOffsetEastWest>
+                    </li>
+                </wounds>
+            </li>
+        </hediffWounds>
+    </FleshTypeDef>
+
+    <FleshTypeDef>
+        <defName>GEB_FleshType_Cranberry</defName>
+        <corpseCategory>CorpsesAnimal</corpseCategory>
+        <damageEffecter>GEB_Damage_Cranberry</damageEffecter>
+        <genericWounds>
+            <li>
+                <texture>Things/Pawn/Wounds/Base_WouldFleshA</texture>
+                <color>(198, 8, 80)</color>
+            </li>
+            <li>
+                <texture>Things/Pawn/Wounds/Base_WouldFleshB</texture>
+                <color>(198, 8, 80)</color>
+            </li>
+            <li>
+                <texture>Things/Pawn/Wounds/Base_WouldFleshC</texture>
+                <color>(198, 8, 80)</color>
+            </li>
+        </genericWounds>
+        <bandagedWounds>
+            <li>
+                <texture>Things/Pawn/Wounds/BandagedA</texture>
+            </li>
+            <li>
+                <texture>Things/Pawn/Wounds/BandagedB</texture>
+            </li>
+            <li>
+                <texture>Things/Pawn/Wounds/BandagedC</texture>
+            </li>
+        </bandagedWounds>
+        <hediffWounds>
+            <li>
+                <hediff>MissingBodyPart</hediff>
+                <wounds>
+                    <li>
+                        <textureSouth>Things/Pawn/Wounds/MissingEye_Scar_south</textureSouth>
+                        <textureNorth>Things/Pawn/Wounds/MissingEye_Scar_south</textureNorth>
+                        <textureEast>Things/Pawn/Wounds/MissingEye_Scar_east</textureEast>
+                        <textureWest>Things/Pawn/Wounds/MissingEye_Scar_east</textureWest>
+                        <flipWest>true</flipWest>
+                        <onlyOnPart>Eye</onlyOnPart>
+                        <flipOnWoundAnchorTag>LeftEye</flipOnWoundAnchorTag>
+                        <flipOnRotation>South</flipOnRotation>
+                        <tintWithSkinColor>true</tintWithSkinColor>
+                        <missingBodyPartFresh>false</missingBodyPartFresh>
+                        <scale>0.7</scale>
+                        <drawOffsetSouth>(0, 0, -0.24)</drawOffsetSouth>
+                        <drawOffsetEastWest>(-0.03, 0, -0.24)</drawOffsetEastWest>
+                    </li>
+                    <li>
+                        <textureSouth>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureSouth>
+                        <textureNorth>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureNorth>
+                        <textureEast>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureEast>
+                        <textureWest>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureWest>
+                        <color>(198, 8, 80)</color>
+                        <flipWest>true</flipWest>
+                        <onlyOnPart>Eye</onlyOnPart>
+                        <flipOnWoundAnchorTag>LeftEye</flipOnWoundAnchorTag>
+                        <flipOnRotation>South</flipOnRotation>
+                        <missingBodyPartFresh>true</missingBodyPartFresh>
+                        <scale>0.7</scale>
+                        <drawOffsetSouth>(0, 0, -0.24)</drawOffsetSouth>
+                        <drawOffsetEastWest>(-0.03, 0, -0.24)</drawOffsetEastWest>
+                    </li>
+                </wounds>
+            </li>
+        </hediffWounds>
+    </FleshTypeDef>
+
+    <FleshTypeDef>
+        <defName>GEB_FleshType_Burgundy</defName>
+        <corpseCategory>CorpsesAnimal</corpseCategory>
+        <damageEffecter>GEB_Damage_Burgundy</damageEffecter>
+        <genericWounds>
+            <li>
+                <texture>Things/Pawn/Wounds/Base_WouldFleshA</texture>
+                <color>(152, 1, 46)</color>
+            </li>
+            <li>
+                <texture>Things/Pawn/Wounds/Base_WouldFleshB</texture>
+                <color>(152, 1, 46)</color>
+            </li>
+            <li>
+                <texture>Things/Pawn/Wounds/Base_WouldFleshC</texture>
+                <color>(152, 1, 46)</color>
+            </li>
+        </genericWounds>
+        <bandagedWounds>
+            <li>
+                <texture>Things/Pawn/Wounds/BandagedA</texture>
+            </li>
+            <li>
+                <texture>Things/Pawn/Wounds/BandagedB</texture>
+            </li>
+            <li>
+                <texture>Things/Pawn/Wounds/BandagedC</texture>
+            </li>
+        </bandagedWounds>
+        <hediffWounds>
+            <li>
+                <hediff>MissingBodyPart</hediff>
+                <wounds>
+                    <li>
+                        <textureSouth>Things/Pawn/Wounds/MissingEye_Scar_south</textureSouth>
+                        <textureNorth>Things/Pawn/Wounds/MissingEye_Scar_south</textureNorth>
+                        <textureEast>Things/Pawn/Wounds/MissingEye_Scar_east</textureEast>
+                        <textureWest>Things/Pawn/Wounds/MissingEye_Scar_east</textureWest>
+                        <flipWest>true</flipWest>
+                        <onlyOnPart>Eye</onlyOnPart>
+                        <flipOnWoundAnchorTag>LeftEye</flipOnWoundAnchorTag>
+                        <flipOnRotation>South</flipOnRotation>
+                        <tintWithSkinColor>true</tintWithSkinColor>
+                        <missingBodyPartFresh>false</missingBodyPartFresh>
+                        <scale>0.7</scale>
+                        <drawOffsetSouth>(0, 0, -0.24)</drawOffsetSouth>
+                        <drawOffsetEastWest>(-0.03, 0, -0.24)</drawOffsetEastWest>
+                    </li>
+                    <li>
+                        <textureSouth>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureSouth>
+                        <textureNorth>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureNorth>
+                        <textureEast>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureEast>
+                        <textureWest>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureWest>
+                        <color>(152, 1, 46)</color>
+                        <flipWest>true</flipWest>
+                        <onlyOnPart>Eye</onlyOnPart>
+                        <flipOnWoundAnchorTag>LeftEye</flipOnWoundAnchorTag>
+                        <flipOnRotation>South</flipOnRotation>
+                        <missingBodyPartFresh>true</missingBodyPartFresh>
+                        <scale>0.7</scale>
+                        <drawOffsetSouth>(0, 0, -0.24)</drawOffsetSouth>
+                        <drawOffsetEastWest>(-0.03, 0, -0.24)</drawOffsetEastWest>
+                    </li>
+                </wounds>
+            </li>
+        </hediffWounds>
+    </FleshTypeDef>
+
+    <FleshTypeDef>
+        <defName>GEB_FleshType_Merlot</defName>
+        <corpseCategory>CorpsesAnimal</corpseCategory>
+        <damageEffecter>GEB_Damage_Merlot</damageEffecter>
+        <genericWounds>
+            <li>
+                <texture>Things/Pawn/Wounds/Base_WouldFleshA</texture>
+                <color>(140, 12, 3)</color>
+            </li>
+            <li>
+                <texture>Things/Pawn/Wounds/Base_WouldFleshB</texture>
+                <color>(140, 12, 3)</color>
+            </li>
+            <li>
+                <texture>Things/Pawn/Wounds/Base_WouldFleshC</texture>
+                <color>(140, 12, 3)</color>
+            </li>
+        </genericWounds>
+        <bandagedWounds>
+            <li>
+                <texture>Things/Pawn/Wounds/BandagedA</texture>
+            </li>
+            <li>
+                <texture>Things/Pawn/Wounds/BandagedB</texture>
+            </li>
+            <li>
+                <texture>Things/Pawn/Wounds/BandagedC</texture>
+            </li>
+        </bandagedWounds>
+        <hediffWounds>
+            <li>
+                <hediff>MissingBodyPart</hediff>
+                <wounds>
+                    <li>
+                        <textureSouth>Things/Pawn/Wounds/MissingEye_Scar_south</textureSouth>
+                        <textureNorth>Things/Pawn/Wounds/MissingEye_Scar_south</textureNorth>
+                        <textureEast>Things/Pawn/Wounds/MissingEye_Scar_east</textureEast>
+                        <textureWest>Things/Pawn/Wounds/MissingEye_Scar_east</textureWest>
+                        <flipWest>true</flipWest>
+                        <onlyOnPart>Eye</onlyOnPart>
+                        <flipOnWoundAnchorTag>LeftEye</flipOnWoundAnchorTag>
+                        <flipOnRotation>South</flipOnRotation>
+                        <tintWithSkinColor>true</tintWithSkinColor>
+                        <missingBodyPartFresh>false</missingBodyPartFresh>
+                        <scale>0.7</scale>
+                        <drawOffsetSouth>(0, 0, -0.24)</drawOffsetSouth>
+                        <drawOffsetEastWest>(-0.03, 0, -0.24)</drawOffsetEastWest>
+                    </li>
+                    <li>
+                        <textureSouth>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureSouth>
+                        <textureNorth>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureNorth>
+                        <textureEast>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureEast>
+                        <textureWest>Things/Pawn/Wounds/Base_MissingEye_Fresh</textureWest>
+                        <color>(140, 12, 3)</color>
+                        <flipWest>true</flipWest>
+                        <onlyOnPart>Eye</onlyOnPart>
+                        <flipOnWoundAnchorTag>LeftEye</flipOnWoundAnchorTag>
+                        <flipOnRotation>South</flipOnRotation>
+                        <missingBodyPartFresh>true</missingBodyPartFresh>
+                        <scale>0.7</scale>
+                        <drawOffsetSouth>(0, 0, -0.24)</drawOffsetSouth>
+                        <drawOffsetEastWest>(-0.03, 0, -0.24)</drawOffsetEastWest>
+                    </li>
+                </wounds>
+            </li>
+        </hediffWounds>
+    </FleshTypeDef>
 </Defs>
