@@ -11,7 +11,7 @@
         </exclusionTags>
     </GeneDef>
 
-    <!--=================== Yellow =================-->
+    <!--********************* Yellow *********************-->
     <GeneDef ParentName="GeneBloodColorBase">
         <defName>GEB_Blood_Yellowfin</defName>
         <label>Yellowfin Blood</label>
@@ -60,7 +60,7 @@
         </modExtensions>
     </GeneDef>
 
-    <!--=================== Orange =================-->
+    <!--********************* Orange *********************-->
     <GeneDef ParentName="GeneBloodColorBase">
         <defName>GEB_Blood_GoldFish</defName>
         <label>GoldFish Blood</label>
@@ -121,6 +121,151 @@
                 <customBloodIcon>UI/Icons/Medical/Tangerine_BleedingIcon</customBloodIcon>
                 <customBloodEffect>GEB_Damage_Tangerine</customBloodEffect>
                 <customWoundsFromFleshtype>GEB_FleshType_Tangerine</customWoundsFromFleshtype>
+            </li>
+        </modExtensions>
+    </GeneDef>
+
+    <!--********************* Purple *********************-->
+    <GeneDef ParentName="GeneBloodColorBase">
+        <defName>GEB_Blood_PaleLavender</defName>
+        <label>PaleLavender Blood</label>
+        <description>This gene triggers a biochemical reaction in the creature, causing its blood to turn Purple.</description>
+        <iconPath>UI/Icons/Genes/PaleLavender_Icon</iconPath>
+        <displayOrderInCategory>0</displayOrderInCategory>
+        <modExtensions>
+            <li Class="VanillaGenesExpanded.GeneExtension">
+                <customBloodThingDef>GEW_Blood_Filth_PaleLavender</customBloodThingDef>
+                <customBloodIcon>UI/Icons/Medical/PaleLavender_BleedingIcon</customBloodIcon>
+                <customBloodEffect>GEB_Damage_PaleLavender</customBloodEffect>
+                <customWoundsFromFleshtype>GEB_FleshType_PaleLavender</customWoundsFromFleshtype>
+            </li>
+        </modExtensions>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneBloodColorBase">
+        <defName>GEB_Blood_Lilac</defName>
+        <label>Lilac Blood</label>
+        <description>This gene triggers a biochemical reaction in the creature, causing its blood to turn Purple.</description>
+        <iconPath>UI/Icons/Genes/Lilac_Icon</iconPath>
+        <displayOrderInCategory>0</displayOrderInCategory>
+        <modExtensions>
+            <li Class="VanillaGenesExpanded.GeneExtension">
+                <customBloodThingDef>GEW_Blood_Filth_Lilac</customBloodThingDef>
+                <customBloodIcon>UI/Icons/Medical/Lilac_BleedingIcon</customBloodIcon>
+                <customBloodEffect>GEB_Damage_Lilac</customBloodEffect>
+                <customWoundsFromFleshtype>GEB_FleshType_Lilac</customWoundsFromFleshtype>
+            </li>
+        </modExtensions>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneBloodColorBase">
+        <defName>GEB_Blood_Orchid</defName>
+        <label>Orchid Blood</label>
+        <description>This gene triggers a biochemical reaction in the creature, causing its blood to turn Purple.</description>
+        <iconPath>UI/Icons/Genes/Orchid_Icon</iconPath>
+        <displayOrderInCategory>0</displayOrderInCategory>
+        <modExtensions>
+            <li Class="VanillaGenesExpanded.GeneExtension">
+                <customBloodThingDef>GEW_Blood_Filth_Orchid</customBloodThingDef>
+                <customBloodIcon>UI/Icons/Medical/Orchid_BleedingIcon</customBloodIcon>
+                <customBloodEffect>GEB_Damage_Orchid</customBloodEffect>
+                <customWoundsFromFleshtype>GEB_FleshType_Orchid</customWoundsFromFleshtype>
+            </li>
+        </modExtensions>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneBloodColorBase">
+        <defName>GEB_Blood_Plum</defName>
+        <label>Plum Blood</label>
+        <description>This gene triggers a biochemical reaction in the creature, causing its blood to turn Purple.</description>
+        <iconPath>UI/Icons/Genes/Plum_Icon</iconPath>
+        <displayOrderInCategory>0</displayOrderInCategory>
+        <modExtensions>
+            <li Class="VanillaGenesExpanded.GeneExtension">
+                <customBloodThingDef>GEW_Blood_Filth_Plum</customBloodThingDef>
+                <customBloodIcon>UI/Icons/Medical/Plum_BleedingIcon</customBloodIcon>
+                <customBloodEffect>GEB_Damage_Plum</customBloodEffect>
+                <customWoundsFromFleshtype>GEB_FleshType_Plum</customWoundsFromFleshtype>
+            </li>
+        </modExtensions>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneBloodColorBase">
+        <defName>GEB_Blood_Violet</defName>
+        <label>Violet Blood</label>
+        <description>This gene triggers a biochemical reaction in the creature, causing its blood to turn Purple.</description>
+        <iconPath>UI/Icons/Genes/Violet_Icon</iconPath>
+        <displayOrderInCategory>0</displayOrderInCategory>
+        <modExtensions>
+            <li Class="VanillaGenesExpanded.GeneExtension">
+                <customBloodThingDef>GEW_Blood_Filth_Violet</customBloodThingDef>
+                <customBloodIcon>UI/Icons/Medical/Violet_BleedingIcon</customBloodIcon>
+                <customBloodEffect>GEB_Damage_Violet</customBloodEffect>
+                <customWoundsFromFleshtype>GEB_FleshType_Violet</customWoundsFromFleshtype>
+            </li>
+        </modExtensions>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneBloodColorBase">
+        <defName>GEB_Blood_Grape</defName>
+        <label>Grape Blood</label>
+        <description>This gene triggers a biochemical reaction in the creature, causing its blood to turn Purple.</description>
+        <iconPath>UI/Icons/Genes/Grape_Icon</iconPath>
+        <displayOrderInCategory>0</displayOrderInCategory>
+        <modExtensions>
+            <li Class="VanillaGenesExpanded.GeneExtension">
+                <customBloodThingDef>GEW_Blood_Filth_Grape</customBloodThingDef>
+                <customBloodIcon>UI/Icons/Medical/Grape_BleedingIcon</customBloodIcon>
+                <customBloodEffect>GEB_Damage_Grape</customBloodEffect>
+                <customWoundsFromFleshtype>GEB_FleshType_Grape</customWoundsFromFleshtype>
+            </li>
+        </modExtensions>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneBloodColorBase">
+        <defName>GEB_Blood_Purple</defName>
+        <label>Purple Blood</label>
+        <description>This gene triggers a biochemical reaction in the creature, causing its blood to turn Purple.</description>
+        <iconPath>UI/Icons/Genes/Purple_Icon</iconPath>
+        <displayOrderInCategory>0</displayOrderInCategory>
+        <modExtensions>
+            <li Class="VanillaGenesExpanded.GeneExtension">
+                <customBloodThingDef>GEW_Blood_Filth_Purple</customBloodThingDef>
+                <customBloodIcon>UI/Icons/Medical/Purple_BleedingIcon</customBloodIcon>
+                <customBloodEffect>GEB_Damage_Purple</customBloodEffect>
+                <customWoundsFromFleshtype>GEB_FleshType_Purple</customWoundsFromFleshtype>
+            </li>
+        </modExtensions>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneBloodColorBase">
+        <defName>GEB_Blood_Amethyst</defName>
+        <label>Amethyst Blood</label>
+        <description>This gene triggers a biochemical reaction in the creature, causing its blood to turn Purple.</description>
+        <iconPath>UI/Icons/Genes/Amethyst_Icon</iconPath>
+        <displayOrderInCategory>0</displayOrderInCategory>
+        <modExtensions>
+            <li Class="VanillaGenesExpanded.GeneExtension">
+                <customBloodThingDef>GEW_Blood_Filth_Amethyst</customBloodThingDef>
+                <customBloodIcon>UI/Icons/Medical/Amethyst_BleedingIcon</customBloodIcon>
+                <customBloodEffect>GEB_Damage_Amethyst</customBloodEffect>
+                <customWoundsFromFleshtype>GEB_FleshType_Amethyst</customWoundsFromFleshtype>
+            </li>
+        </modExtensions>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneBloodColorBase">
+        <defName>GEB_Blood_PurpleHeart</defName>
+        <label>PurpleHeart Blood</label>
+        <description>This gene triggers a biochemical reaction in the creature, causing its blood to turn Purple.</description>
+        <iconPath>UI/Icons/Genes/PurpleHeart_Icon</iconPath>
+        <displayOrderInCategory>0</displayOrderInCategory>
+        <modExtensions>
+            <li Class="VanillaGenesExpanded.GeneExtension">
+                <customBloodThingDef>GEW_Blood_Filth_PurpleHeart</customBloodThingDef>
+                <customBloodIcon>UI/Icons/Medical/PurpleHeart_BleedingIcon</customBloodIcon>
+                <customBloodEffect>GEB_Damage_PurpleHeart</customBloodEffect>
+                <customWoundsFromFleshtype>GEB_FleshType_PurpleHeart</customWoundsFromFleshtype>
             </li>
         </modExtensions>
     </GeneDef>
