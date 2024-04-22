@@ -59,4 +59,69 @@
             </li>
         </modExtensions>
     </GeneDef>
+
+    <!--=================== Orange =================-->
+    <GeneDef ParentName="GeneBloodColorBase">
+        <defName>GEB_Blood_GoldFish</defName>
+        <label>GoldFish Blood</label>
+        <description>This gene triggers a biochemical reaction in the creature, causing its blood to turn Orange.</description>
+        <iconPath>UI/Icons/Genes/GoldFish_Icon</iconPath>
+        <displayOrderInCategory>0</displayOrderInCategory>
+        <modExtensions>
+            <li Class="VanillaGenesExpanded.GeneExtension">
+                <customBloodThingDef>GEW_Blood_Filth_GoldFish</customBloodThingDef>
+                <customBloodIcon>UI/Icons/Medical/GoldFish_BleedingIcon</customBloodIcon>
+                <customBloodEffect>GEB_Damage_GoldFish</customBloodEffect>
+                <customWoundsFromFleshtype>GEB_FleshType_GoldFish</customWoundsFromFleshtype>
+            </li>
+        </modExtensions>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneBloodColorBase">
+        <defName>GEB_Blood_BurntOrange</defName>
+        <label>BurntOrange Blood</label>
+        <description>This gene triggers a biochemical reaction in the creature, causing its blood to turn Orange.</description>
+        <iconPath>UI/Icons/Genes/BurntOrange_Icon</iconPath>
+        <displayOrderInCategory>0</displayOrderInCategory>
+        <modExtensions>
+            <li Class="VanillaGenesExpanded.GeneExtension">
+                <customBloodThingDef>GEW_Blood_Filth_BurntOrange</customBloodThingDef>
+                <customBloodIcon>UI/Icons/Medical/BurntOrange_BleedingIcon</customBloodIcon>
+                <customBloodEffect>GEB_Damage_BurntOrange</customBloodEffect>
+                <customWoundsFromFleshtype>GEB_FleshType_BurntOrange</customWoundsFromFleshtype>
+            </li>
+        </modExtensions>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneBloodColorBase">
+        <defName>GEB_Blood_Clay</defName>
+        <label>Clay Blood</label>
+        <description>This gene triggers a biochemical reaction in the creature, causing its blood to turn Orange.</description>
+        <iconPath>UI/Icons/Genes/Clay_Icon</iconPath>
+        <displayOrderInCategory>0</displayOrderInCategory>
+        <modExtensions>
+            <li Class="VanillaGenesExpanded.GeneExtension">
+                <customBloodThingDef>GEW_Blood_Filth_Clay</customBloodThingDef>
+                <customBloodIcon>UI/Icons/Medical/Clay_BleedingIcon</customBloodIcon>
+                <customBloodEffect>GEB_Damage_Clay</customBloodEffect>
+                <customWoundsFromFleshtype>GEB_FleshType_Clay</customWoundsFromFleshtype>
+            </li>
+        </modExtensions>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneBloodColorBase">
+        <defName>GEB_Blood_Tangerine</defName>
+        <label>Tangerine Blood</label>
+        <description>This gene triggers a biochemical reaction in the creature, causing its blood to turn Orange.</description>
+        <iconPath>UI/Icons/Genes/Tangerine_Icon</iconPath>
+        <displayOrderInCategory>0</displayOrderInCategory>
+        <modExtensions>
+            <li Class="VanillaGenesExpanded.GeneExtension">
+                <customBloodThingDef>GEW_Blood_Filth_Tangerine</customBloodThingDef>
+                <customBloodIcon>UI/Icons/Medical/Tangerine_BleedingIcon</customBloodIcon>
+                <customBloodEffect>GEB_Damage_Tangerine</customBloodEffect>
+                <customWoundsFromFleshtype>GEB_FleshType_Tangerine</customWoundsFromFleshtype>
+            </li>
+        </modExtensions>
+    </GeneDef>
 </Defs>
