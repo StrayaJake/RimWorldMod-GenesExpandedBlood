@@ -36,4 +36,4 @@ jobs:
 
         - name: Update Workshop Item
           run: |
-            steamcmd +workshop_build_item workshop.vdf +quit
+            ~/steamcmd/steamcmd.sh +login anonymous +workshop_build_item workshop.vdf +quit
