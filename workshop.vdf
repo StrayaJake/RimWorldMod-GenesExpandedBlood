@@ -1,0 +1,8 @@
+"workshopitem"
+{
+    "appid" "294100"  // The game's Steam App ID for RimWorld
+    "contentfolder" "./[LFS] Genes Expanded - Blood"  // Relative path to the mod content from the repo root
+    "previewfile" "./[LFS] Genes Expanded - Blood/about/preview.png"  // Corrected path to the preview image
+    "changenote" "Update notes for this version."  // Change notes for this update
+    "publishedfileid" "3228450867"  // Your mod's Workshop ID
+}
