@@ -1,16 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Defs>
-    <!--=================== RED =================-->
+    <!--=================== Yellow =================-->
     <ThingDef ParentName="BaseFilth">
-        <defName>GEW_Blood_Filth_TESTING</defName>
-        <label>red blood</label>
+        <defName>GEW_Blood_Filth_Yellowfin</defName>
+        <label>Yellow blood</label>
         <statBases>
             <Beauty>-30</Beauty>
             <Cleanliness>-10</Cleanliness>
         </statBases>
         <graphicData>
             <texPath>Things/Filth/Spatter</texPath>
-            <color>(255, 255, 255, 255)</color>
+            <color>(243, 240, 143, 255)</color>
+        </graphicData>
+        <filth>
+            <ignoreFilthMultiplierStat>true</ignoreFilthMultiplierStat>
+            <disappearsInDays>35~40</disappearsInDays>
+            <rainWashes>true</rainWashes>
+            <cleaningWorkToReduceThickness>70</cleaningWorkToReduceThickness>
+            <canFilthAttach>true</canFilthAttach>
+            <cleaningSound>Interact_CleanFilth_Fluid</cleaningSound>
+        </filth>
+    </ThingDef>
+
+    <ThingDef ParentName="BaseFilth">
+        <defName>GEW_Blood_Filth_BananaSplit</defName>
+        <label>Yellow blood</label>
+        <statBases>
+            <Beauty>-30</Beauty>
+            <Cleanliness>-10</Cleanliness>
+        </statBases>
+        <graphicData>
+            <texPath>Things/Filth/Spatter</texPath>
+            <color>(254, 228, 131, 255)</color>
+        </graphicData>
+        <filth>
+            <ignoreFilthMultiplierStat>true</ignoreFilthMultiplierStat>
+            <disappearsInDays>35~40</disappearsInDays>
+            <rainWashes>true</rainWashes>
+            <cleaningWorkToReduceThickness>70</cleaningWorkToReduceThickness>
+            <canFilthAttach>true</canFilthAttach>
+            <cleaningSound>Interact_CleanFilth_Fluid</cleaningSound>
+        </filth>
+    </ThingDef>
+
+    <ThingDef ParentName="BaseFilth">
+        <defName>GEW_Blood_Filth_TaxiCab</defName>
+        <label>Yellow blood</label>
+        <statBases>
+            <Beauty>-30</Beauty>
+            <Cleanliness>-10</Cleanliness>
+        </statBases>
+        <graphicData>
+            <texPath>Things/Filth/Spatter</texPath>
+            <color>(255, 211, 80, 255)</color>
         </graphicData>
         <filth>
             <ignoreFilthMultiplierStat>true</ignoreFilthMultiplierStat>

@@ -5,25 +5,57 @@
         <biostatCpx>0</biostatCpx>
         <randomChosen>true</randomChosen>
         <displayCategory>GEB_Blood_Color</displayCategory>
+
         <exclusionTags>
             <li>BloodColor</li>
         </exclusionTags>
     </GeneDef>
 
-    <!--=================== RED =================-->
+    <!--=================== Yellow =================-->
     <GeneDef ParentName="GeneBloodColorBase">
-        <defName>GEB_Blood_Red</defName>
-        <label>Red Blood</label>
-        <description>BLOOD IS RED</description>
-        <iconPath>UI/Icon/Genes/BloodColor_Icon</iconPath>
-
+        <defName>GEB_Blood_Yellowfin</defName>
+        <label>Yellowfin Blood</label>
+        <description>This gene triggers a biochemical reaction in the creature, causing its blood to turn Yellow.</description>
+        <iconPath>UI/Icons/Genes/Yellowfin_Icon</iconPath>
         <displayOrderInCategory>0</displayOrderInCategory>
         <modExtensions>
             <li Class="VanillaGenesExpanded.GeneExtension">
-                <customBloodThingDef>GEW_Blood_Filth_TESTING</customBloodThingDef>
-                <customBloodIcon>UI/Icons/Medical/RedBlood_BleedingIcon</customBloodIcon>
-                <customBloodEffect>GEB_Damage_Testing</customBloodEffect>
-                <customWoundsFromFleshtype>GEB_FLESHTYPE_TESTING</customWoundsFromFleshtype>
+                <customBloodThingDef>GEW_Blood_Filth_Yellowfin</customBloodThingDef>
+                <customBloodIcon>UI/Icons/Medical/Yellowfin_BleedingIcon</customBloodIcon>
+                <customBloodEffect>GEB_Damage_Yellowfin</customBloodEffect>
+                <customWoundsFromFleshtype>GEB_FleshType_Yellowfin</customWoundsFromFleshtype>
+            </li>
+        </modExtensions>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneBloodColorBase">
+        <defName>GEB_Blood_BananaSplit</defName>
+        <label>BananaSplit Blood</label>
+        <description>This gene triggers a biochemical reaction in the creature, causing its blood to turn Yellow.</description>
+        <iconPath>UI/Icons/Genes/BananaSplit_Icon</iconPath>
+        <displayOrderInCategory>0</displayOrderInCategory>
+        <modExtensions>
+            <li Class="VanillaGenesExpanded.GeneExtension">
+                <customBloodThingDef>GEW_Blood_Filth_BananaSplit</customBloodThingDef>
+                <customBloodIcon>UI/Icons/Medical/BananaSplit_BleedingIcon</customBloodIcon>
+                <customBloodEffect>GEB_Damage_BananaSplit</customBloodEffect>
+                <customWoundsFromFleshtype>GEB_FleshType_BananaSplit</customWoundsFromFleshtype>
+            </li>
+        </modExtensions>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneBloodColorBase">
+        <defName>GEB_Blood_TaxiCab</defName>
+        <label>TaxiCab Blood</label>
+        <description>This gene triggers a biochemical reaction in the creature, causing its blood to turn Yellow.</description>
+        <iconPath>UI/Icons/Genes/TaxiCab_Icon</iconPath>
+        <displayOrderInCategory>0</displayOrderInCategory>
+        <modExtensions>
+            <li Class="VanillaGenesExpanded.GeneExtension">
+                <customBloodThingDef>GEW_Blood_Filth_TaxiCab</customBloodThingDef>
+                <customBloodIcon>UI/Icons/Medical/TaxiCab_BleedingIcon</customBloodIcon>
+                <customBloodEffect>GEB_Damage_TaxiCab</customBloodEffect>
+                <customWoundsFromFleshtype>GEB_FleshType_TaxiCab</customWoundsFromFleshtype>
             </li>
         </modExtensions>
     </GeneDef>
