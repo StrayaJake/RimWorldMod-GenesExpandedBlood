@@ -591,4 +591,181 @@
             </li>
         </modExtensions>
     </GeneDef>
+
+    <!--********************* Brown *********************-->
+    <GeneDef ParentName="GeneBloodColorBase">
+        <defName>GEB_Blood_Rattan</defName>
+        <label>Rattan Blood</label>
+        <description>This gene triggers a biochemical reaction in the creature, causing its blood to turn Brown.</description>
+        <iconPath>UI/Icons/Genes/Rattan_Icon</iconPath>
+        <displayOrderInCategory>0</displayOrderInCategory>
+        <modExtensions>
+            <li Class="VanillaGenesExpanded.GeneExtension">
+                <customBloodThingDef>GEW_Blood_Filth_Rattan</customBloodThingDef>
+                <customBloodIcon>UI/Icons/Medical/Rattan_BleedingIcon</customBloodIcon>
+                <customBloodEffect>GEB_Damage_Rattan</customBloodEffect>
+                <customWoundsFromFleshtype>GEB_FleshType_Rattan</customWoundsFromFleshtype>
+            </li>
+        </modExtensions>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneBloodColorBase">
+        <defName>GEB_Blood_MidasGold</defName>
+        <label>MidasGold Blood</label>
+        <description>This gene triggers a biochemical reaction in the creature, causing its blood to turn Brown.</description>
+        <iconPath>UI/Icons/Genes/MidasGold_Icon</iconPath>
+        <displayOrderInCategory>0</displayOrderInCategory>
+        <modExtensions>
+            <li Class="VanillaGenesExpanded.GeneExtension">
+                <customBloodThingDef>GEW_Blood_Filth_MidasGold</customBloodThingDef>
+                <customBloodIcon>UI/Icons/Medical/MidasGold_BleedingIcon</customBloodIcon>
+                <customBloodEffect>GEB_Damage_MidasGold</customBloodEffect>
+                <customWoundsFromFleshtype>GEB_FleshType_MidasGold</customWoundsFromFleshtype>
+            </li>
+        </modExtensions>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneBloodColorBase">
+        <defName>GEB_Blood_BeesWax</defName>
+        <label>Bees Wax Blood</label>
+        <description>This gene triggers a biochemical reaction in the creature, causing its blood to turn Brown.</description>
+        <iconPath>UI/Icons/Genes/BeesWax_Icon</iconPath>
+        <displayOrderInCategory>0</displayOrderInCategory>
+        <modExtensions>
+            <li Class="VanillaGenesExpanded.GeneExtension">
+                <customBloodThingDef>GEW_Blood_Filth_BeesWax</customBloodThingDef>
+                <customBloodIcon>UI/Icons/Medical/BeesWax_BleedingIcon</customBloodIcon>
+                <customBloodEffect>GEB_Damage_BeesWax</customBloodEffect>
+                <customWoundsFromFleshtype>GEB_FleshType_BeesWax</customWoundsFromFleshtype>
+            </li>
+        </modExtensions>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneBloodColorBase">
+        <defName>GEB_Blood_Sunset</defName>
+        <label>Bees Wax Blood</label>
+        <description>This gene triggers a biochemical reaction in the creature, causing its blood to turn Brown.</description>
+        <iconPath>UI/Icons/Genes/Sunset_Icon</iconPath>
+        <displayOrderInCategory>0</displayOrderInCategory>
+        <modExtensions>
+            <li Class="VanillaGenesExpanded.GeneExtension">
+                <customBloodThingDef>GEW_Blood_Filth_Sunset</customBloodThingDef>
+                <customBloodIcon>UI/Icons/Medical/Sunset_BleedingIcon</customBloodIcon>
+                <customBloodEffect>GEB_Damage_Sunset</customBloodEffect>
+                <customWoundsFromFleshtype>GEB_FleshType_Sunset</customWoundsFromFleshtype>
+            </li>
+        </modExtensions>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneBloodColorBase">
+        <defName>GEB_Blood_Teak</defName>
+        <label>Teak Blood</label>
+        <description>This gene triggers a biochemical reaction in the creature, causing its blood to turn Brown.</description>
+        <iconPath>UI/Icons/Genes/Teak_Icon</iconPath>
+        <displayOrderInCategory>0</displayOrderInCategory>
+        <modExtensions>
+            <li Class="VanillaGenesExpanded.GeneExtension">
+                <customBloodThingDef>GEW_Blood_Filth_Teak</customBloodThingDef>
+                <customBloodIcon>UI/Icons/Medical/Teak_BleedingIcon</customBloodIcon>
+                <customBloodEffect>GEB_Damage_Teak</customBloodEffect>
+                <customWoundsFromFleshtype>GEB_FleshType_Teak</customWoundsFromFleshtype>
+            </li>
+        </modExtensions>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneBloodColorBase">
+        <defName>GEB_Blood_Almond</defName>
+        <label>Almond Blood</label>
+        <description>This gene triggers a biochemical reaction in the creature, causing its blood to turn Brown.</description>
+        <iconPath>UI/Icons/Genes/Almond_Icon</iconPath>
+        <displayOrderInCategory>0</displayOrderInCategory>
+        <modExtensions>
+            <li Class="VanillaGenesExpanded.GeneExtension">
+                <customBloodThingDef>GEW_Blood_Filth_Almond</customBloodThingDef>
+                <customBloodIcon>UI/Icons/Medical/Almond_BleedingIcon</customBloodIcon>
+                <customBloodEffect>GEB_Damage_Almond</customBloodEffect>
+                <customWoundsFromFleshtype>GEB_FleshType_Almond</customWoundsFromFleshtype>
+            </li>
+        </modExtensions>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneBloodColorBase">
+        <defName>GEB_Blood_DesertSand</defName>
+        <label>Desert Sand Blood</label>
+        <description>This gene triggers a biochemical reaction in the creature, causing its blood to turn Brown.</description>
+        <iconPath>UI/Icons/Genes/DesertSand_Icon</iconPath>
+        <displayOrderInCategory>0</displayOrderInCategory>
+        <modExtensions>
+            <li Class="VanillaGenesExpanded.GeneExtension">
+                <customBloodThingDef>GEW_Blood_Filth_DesertSand</customBloodThingDef>
+                <customBloodIcon>UI/Icons/Medical/DesertSand_BleedingIcon</customBloodIcon>
+                <customBloodEffect>GEB_Damage_DesertSand</customBloodEffect>
+                <customWoundsFromFleshtype>GEB_FleshType_DesertSand</customWoundsFromFleshtype>
+            </li>
+        </modExtensions>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneBloodColorBase">
+        <defName>GEB_Blood_Copper</defName>
+        <label>Copper Blood</label>
+        <description>This gene triggers a biochemical reaction in the creature, causing its blood to turn Brown.</description>
+        <iconPath>UI/Icons/Genes/Copper_Icon</iconPath>
+        <displayOrderInCategory>0</displayOrderInCategory>
+        <modExtensions>
+            <li Class="VanillaGenesExpanded.GeneExtension">
+                <customBloodThingDef>GEW_Blood_Filth_Copper</customBloodThingDef>
+                <customBloodIcon>UI/Icons/Medical/Copper_BleedingIcon</customBloodIcon>
+                <customBloodEffect>GEB_Damage_Copper</customBloodEffect>
+                <customWoundsFromFleshtype>GEB_FleshType_Copper</customWoundsFromFleshtype>
+            </li>
+        </modExtensions>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneBloodColorBase">
+        <defName>GEB_Blood_Brown</defName>
+        <label>Brown Blood</label>
+        <description>This gene triggers a biochemical reaction in the creature, causing its blood to turn Brown.</description>
+        <iconPath>UI/Icons/Genes/Brown_Icon</iconPath>
+        <displayOrderInCategory>0</displayOrderInCategory>
+        <modExtensions>
+            <li Class="VanillaGenesExpanded.GeneExtension">
+                <customBloodThingDef>GEW_Blood_Filth_Brown</customBloodThingDef>
+                <customBloodIcon>UI/Icons/Medical/Brown_BleedingIcon</customBloodIcon>
+                <customBloodEffect>GEB_Damage_Brown</customBloodEffect>
+                <customWoundsFromFleshtype>GEB_FleshType_Brown</customWoundsFromFleshtype>
+            </li>
+        </modExtensions>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneBloodColorBase">
+        <defName>GEB_Blood_Chesnut</defName>
+        <label>Chesnut Blood</label>
+        <description>This gene triggers a biochemical reaction in the creature, causing its blood to turn Brown.</description>
+        <iconPath>UI/Icons/Genes/Chesnut_Icon</iconPath>
+        <displayOrderInCategory>0</displayOrderInCategory>
+        <modExtensions>
+            <li Class="VanillaGenesExpanded.GeneExtension">
+                <customBloodThingDef>GEW_Blood_Filth_Chesnut</customBloodThingDef>
+                <customBloodIcon>UI/Icons/Medical/Chesnut_BleedingIcon</customBloodIcon>
+                <customBloodEffect>GEB_Damage_Chesnut</customBloodEffect>
+                <customWoundsFromFleshtype>GEB_FleshType_Chesnut</customWoundsFromFleshtype>
+            </li>
+        </modExtensions>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneBloodColorBase">
+        <defName>GEB_Blood_Chocolate</defName>
+        <label>Chocolate Blood</label>
+        <description>This gene triggers a biochemical reaction in the creature, causing its blood to turn Brown.</description>
+        <iconPath>UI/Icons/Genes/Chocolate_Icon</iconPath>
+        <displayOrderInCategory>0</displayOrderInCategory>
+        <modExtensions>
+            <li Class="VanillaGenesExpanded.GeneExtension">
+                <customBloodThingDef>GEW_Blood_Filth_Chocolate</customBloodThingDef>
+                <customBloodIcon>UI/Icons/Medical/Chocolate_BleedingIcon</customBloodIcon>
+                <customBloodEffect>GEB_Damage_Chocolate</customBloodEffect>
+                <customWoundsFromFleshtype>GEB_FleshType_Chocolate</customWoundsFromFleshtype>
+            </li>
+        </modExtensions>
+    </GeneDef>
 </Defs>
