@@ -430,4 +430,165 @@
             </li>
         </modExtensions>
     </GeneDef>
+
+    <!--********************* White and Black *********************-->
+    <GeneDef ParentName="GeneBloodColorBase">
+        <defName>GEB_Blood_White</defName>
+        <label>White Blood</label>
+        <description>This gene triggers a biochemical reaction in the creature, causing its blood to turn White.</description>
+        <iconPath>UI/Icons/Genes/White_Icon</iconPath>
+        <displayOrderInCategory>0</displayOrderInCategory>
+        <modExtensions>
+            <li Class="VanillaGenesExpanded.GeneExtension">
+                <customBloodThingDef>GEW_Blood_Filth_White</customBloodThingDef>
+                <customBloodIcon>UI/Icons/Medical/White_BleedingIcon</customBloodIcon>
+                <customBloodEffect>GEB_Damage_White</customBloodEffect>
+                <customWoundsFromFleshtype>GEB_FleshType_White</customWoundsFromFleshtype>
+            </li>
+        </modExtensions>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneBloodColorBase">
+        <defName>GEB_Blood_SilverShiner</defName>
+        <label>Silver Shiner Blood</label>
+        <description>This gene triggers a biochemical reaction in the creature, causing its blood to turn Grey.</description>
+        <iconPath>UI/Icons/Genes/SilverShiner_Icon</iconPath>
+        <displayOrderInCategory>0</displayOrderInCategory>
+        <modExtensions>
+            <li Class="VanillaGenesExpanded.GeneExtension">
+                <customBloodThingDef>GEW_Blood_Filth_SilverShiner</customBloodThingDef>
+                <customBloodIcon>UI/Icons/Medical/SilverShiner_BleedingIcon</customBloodIcon>
+                <customBloodEffect>GEB_Damage_SilverShiner</customBloodEffect>
+                <customWoundsFromFleshtype>GEB_FleshType_SilverShiner</customWoundsFromFleshtype>
+            </li>
+        </modExtensions>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneBloodColorBase">
+        <defName>GEB_Blood_GhostGrey</defName>
+        <label>Ghost Grey Blood</label>
+        <description>This gene triggers a biochemical reaction in the creature, causing its blood to turn Grey.</description>
+        <iconPath>UI/Icons/Genes/GhostGrey_Icon</iconPath>
+        <displayOrderInCategory>0</displayOrderInCategory>
+        <modExtensions>
+            <li Class="VanillaGenesExpanded.GeneExtension">
+                <customBloodThingDef>GEW_Blood_Filth_GhostGrey</customBloodThingDef>
+                <customBloodIcon>UI/Icons/Medical/GhostGrey_BleedingIcon</customBloodIcon>
+                <customBloodEffect>GEB_Damage_GhostGrey</customBloodEffect>
+                <customWoundsFromFleshtype>GEB_FleshType_GhostGrey</customWoundsFromFleshtype>
+            </li>
+        </modExtensions>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneBloodColorBase">
+        <defName>GEB_Blood_SilverSmoke</defName>
+        <label>Silver Smoke Blood</label>
+        <description>This gene triggers a biochemical reaction in the creature, causing its blood to turn Grey.</description>
+        <iconPath>UI/Icons/Genes/SilverSmoke_Icon</iconPath>
+        <displayOrderInCategory>0</displayOrderInCategory>
+        <modExtensions>
+            <li Class="VanillaGenesExpanded.GeneExtension">
+                <customBloodThingDef>GEW_Blood_Filth_SilverSmoke</customBloodThingDef>
+                <customBloodIcon>UI/Icons/Medical/SilverSmoke_BleedingIcon</customBloodIcon>
+                <customBloodEffect>GEB_Damage_SilverSmoke</customBloodEffect>
+                <customWoundsFromFleshtype>GEB_FleshType_SilverSmoke</customWoundsFromFleshtype>
+            </li>
+        </modExtensions>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneBloodColorBase">
+        <defName>GEB_Blood_TinCan</defName>
+        <label>Tin Can Blood</label>
+        <description>This gene triggers a biochemical reaction in the creature, causing its blood to turn Grey.</description>
+        <iconPath>UI/Icons/Genes/TinCan_Icon</iconPath>
+        <displayOrderInCategory>0</displayOrderInCategory>
+        <modExtensions>
+            <li Class="VanillaGenesExpanded.GeneExtension">
+                <customBloodThingDef>GEW_Blood_Filth_TinCan</customBloodThingDef>
+                <customBloodIcon>UI/Icons/Medical/TinCan_BleedingIcon</customBloodIcon>
+                <customBloodEffect>GEB_Damage_TinCan</customBloodEffect>
+                <customWoundsFromFleshtype>GEB_FleshType_TinCan</customWoundsFromFleshtype>
+            </li>
+        </modExtensions>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneBloodColorBase">
+        <defName>GEB_Blood_SmokeScreen</defName>
+        <label>Smoke Screen Blood</label>
+        <description>This gene triggers a biochemical reaction in the creature, causing its blood to turn Grey.</description>
+        <iconPath>UI/Icons/Genes/SmokeScreen_Icon</iconPath>
+        <displayOrderInCategory>0</displayOrderInCategory>
+        <modExtensions>
+            <li Class="VanillaGenesExpanded.GeneExtension">
+                <customBloodThingDef>GEW_Blood_Filth_SmokeScreen</customBloodThingDef>
+                <customBloodIcon>UI/Icons/Medical/SmokeScreen_BleedingIcon</customBloodIcon>
+                <customBloodEffect>GEB_Damage_SmokeScreen</customBloodEffect>
+                <customWoundsFromFleshtype>GEB_FleshType_SmokeScreen</customWoundsFromFleshtype>
+            </li>
+        </modExtensions>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneBloodColorBase">
+        <defName>GEB_Blood_ForgedSteel</defName>
+        <label>Forged Steel Blood</label>
+        <description>This gene triggers a biochemical reaction in the creature, causing its blood to turn Grey.</description>
+        <iconPath>UI/Icons/Genes/ForgedSteel_Icon</iconPath>
+        <displayOrderInCategory>0</displayOrderInCategory>
+        <modExtensions>
+            <li Class="VanillaGenesExpanded.GeneExtension">
+                <customBloodThingDef>GEW_Blood_Filth_ForgedSteel</customBloodThingDef>
+                <customBloodIcon>UI/Icons/Medical/ForgedSteel_BleedingIcon</customBloodIcon>
+                <customBloodEffect>GEB_Damage_ForgedSteel</customBloodEffect>
+                <customWoundsFromFleshtype>GEB_FleshType_ForgedSteel</customWoundsFromFleshtype>
+            </li>
+        </modExtensions>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneBloodColorBase">
+        <defName>GEB_Blood_IronOre</defName>
+        <label>Iron Ore Blood</label>
+        <description>This gene triggers a biochemical reaction in the creature, causing its blood to turn Grey.</description>
+        <iconPath>UI/Icons/Genes/IronOre_Icon</iconPath>
+        <displayOrderInCategory>0</displayOrderInCategory>
+        <modExtensions>
+            <li Class="VanillaGenesExpanded.GeneExtension">
+                <customBloodThingDef>GEW_Blood_Filth_IronOre</customBloodThingDef>
+                <customBloodIcon>UI/Icons/Medical/IronOre_BleedingIcon</customBloodIcon>
+                <customBloodEffect>GEB_Damage_IronOre</customBloodEffect>
+                <customWoundsFromFleshtype>GEB_FleshType_IronOre</customWoundsFromFleshtype>
+            </li>
+        </modExtensions>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneBloodColorBase">
+        <defName>GEB_Blood_StormCloud</defName>
+        <label>Storm Cloud Blood</label>
+        <description>This gene triggers a biochemical reaction in the creature, causing its blood to turn Grey.</description>
+        <iconPath>UI/Icons/Genes/StormCloud_Icon</iconPath>
+        <displayOrderInCategory>0</displayOrderInCategory>
+        <modExtensions>
+            <li Class="VanillaGenesExpanded.GeneExtension">
+                <customBloodThingDef>GEW_Blood_Filth_StormCloud</customBloodThingDef>
+                <customBloodIcon>UI/Icons/Medical/StormCloud_BleedingIcon</customBloodIcon>
+                <customBloodEffect>GEB_Damage_StormCloud</customBloodEffect>
+                <customWoundsFromFleshtype>GEB_FleshType_StormCloud</customWoundsFromFleshtype>
+            </li>
+        </modExtensions>
+    </GeneDef>
+
+    <GeneDef ParentName="GeneBloodColorBase">
+        <defName>GEB_Blood_Black</defName>
+        <label>Black Blood</label>
+        <description>This gene triggers a biochemical reaction in the creature, causing its blood to turn Grey.</description>
+        <iconPath>UI/Icons/Genes/Black_Icon</iconPath>
+        <displayOrderInCategory>0</displayOrderInCategory>
+        <modExtensions>
+            <li Class="VanillaGenesExpanded.GeneExtension">
+                <customBloodThingDef>GEW_Blood_Filth_Black</customBloodThingDef>
+                <customBloodIcon>UI/Icons/Medical/Black_BleedingIcon</customBloodIcon>
+                <customBloodEffect>GEB_Damage_Black</customBloodEffect>
+                <customWoundsFromFleshtype>GEB_FleshType_Black</customWoundsFromFleshtype>
+            </li>
+        </modExtensions>
+    </GeneDef>
 </Defs>

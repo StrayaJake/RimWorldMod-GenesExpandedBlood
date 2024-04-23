@@ -6,7 +6,7 @@
     <supportedVersions>
         <li>1.5</li>
     </supportedVersions>
-    <packageId>LazyFridayStudio.GenesExpandedHair</packageId>
+    <packageId>LazyFridayStudio.GenesExpandedBlood</packageId>
     <modDependencies>
         <li>
             <packageId>brrainz.harmony</packageId>
