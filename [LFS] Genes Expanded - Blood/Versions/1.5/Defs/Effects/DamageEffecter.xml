@@ -2133,4 +2133,617 @@
         <positionRadius>0.1</positionRadius>
     </EffecterDef>
 
+    <!--********************* Blue *********************-->
+    <EffecterDef>
+        <defName>GEB_Damage_Teal</defName>
+        <children>
+            <li>
+                <subEffecterClass>SubEffecter_SprayerTriggered</subEffecterClass>
+                <positionRadius>0.4</positionRadius>
+                <fleckDef>AirPuff</fleckDef>
+                <burstCount>4~5</burstCount>
+                <speed>0.4~0.8</speed>
+                <scale>1.0~1.1</scale>
+                <color>(70, 196, 211)</color>
+                <spawnLocType>OnSource</spawnLocType>
+            </li>
+            <li>
+                <subEffecterClass>SubEffecter_SprayerTriggered</subEffecterClass>
+                <positionRadius>0.1</positionRadius>
+                <fleckDef>BloodSplash</fleckDef>
+                <burstCount>2~3</burstCount>
+                <scale>1.1~1.4</scale>
+                <color>(70, 196, 211)</color>
+                <spawnLocType>OnSource</spawnLocType>
+            </li>
+            <li>
+                <subEffecterClass>SubEffecter_SprayerTriggered</subEffecterClass>
+                <positionRadius>0.0</positionRadius>
+                <fleckDef>BodyImpact</fleckDef>
+                <burstCount>1</burstCount>
+                <scale>0.4</scale>
+                <color>(70, 196, 211)</color>
+                <spawnLocType>OnSource</spawnLocType>
+            </li>
+        </children>
+        <offsetTowardsTarget>0.25~0.25</offsetTowardsTarget>
+        <positionRadius>0.1</positionRadius>
+    </EffecterDef>
+
+    <EffecterDef>
+        <defName>GEB_Damage_Denim</defName>
+        <children>
+            <li>
+                <subEffecterClass>SubEffecter_SprayerTriggered</subEffecterClass>
+                <positionRadius>0.4</positionRadius>
+                <fleckDef>AirPuff</fleckDef>
+                <burstCount>4~5</burstCount>
+                <speed>0.4~0.8</speed>
+                <scale>1.0~1.1</scale>
+                <color>(79, 145, 205)</color>
+                <spawnLocType>OnSource</spawnLocType>
+            </li>
+            <li>
+                <subEffecterClass>SubEffecter_SprayerTriggered</subEffecterClass>
+                <positionRadius>0.1</positionRadius>
+                <fleckDef>BloodSplash</fleckDef>
+                <burstCount>2~3</burstCount>
+                <scale>1.1~1.4</scale>
+                <color>(79, 145, 205)</color>
+                <spawnLocType>OnSource</spawnLocType>
+            </li>
+            <li>
+                <subEffecterClass>SubEffecter_SprayerTriggered</subEffecterClass>
+                <positionRadius>0.0</positionRadius>
+                <fleckDef>BodyImpact</fleckDef>
+                <burstCount>1</burstCount>
+                <scale>0.4</scale>
+                <color>(79, 145, 205)</color>
+                <spawnLocType>OnSource</spawnLocType>
+            </li>
+        </children>
+        <offsetTowardsTarget>0.25~0.25</offsetTowardsTarget>
+        <positionRadius>0.1</positionRadius>
+    </EffecterDef>
+
+    <EffecterDef>
+        <defName>GEB_Damage_CoolMint</defName>
+        <children>
+            <li>
+                <subEffecterClass>SubEffecter_SprayerTriggered</subEffecterClass>
+                <positionRadius>0.4</positionRadius>
+                <fleckDef>AirPuff</fleckDef>
+                <burstCount>4~5</burstCount>
+                <speed>0.4~0.8</speed>
+                <scale>1.0~1.1</scale>
+                <color>(1, 178, 149)</color>
+                <spawnLocType>OnSource</spawnLocType>
+            </li>
+            <li>
+                <subEffecterClass>SubEffecter_SprayerTriggered</subEffecterClass>
+                <positionRadius>0.1</positionRadius>
+                <fleckDef>BloodSplash</fleckDef>
+                <burstCount>2~3</burstCount>
+                <scale>1.1~1.4</scale>
+                <color>(1, 178, 149)</color>
+                <spawnLocType>OnSource</spawnLocType>
+            </li>
+            <li>
+                <subEffecterClass>SubEffecter_SprayerTriggered</subEffecterClass>
+                <positionRadius>0.0</positionRadius>
+                <fleckDef>BodyImpact</fleckDef>
+                <burstCount>1</burstCount>
+                <scale>0.4</scale>
+                <color>(1, 178, 149)</color>
+                <spawnLocType>OnSource</spawnLocType>
+            </li>
+        </children>
+        <offsetTowardsTarget>0.25~0.25</offsetTowardsTarget>
+        <positionRadius>0.1</positionRadius>
+    </EffecterDef>
+
+    <EffecterDef>
+        <defName>GEB_Damage_IslandLagoon</defName>
+        <children>
+            <li>
+                <subEffecterClass>SubEffecter_SprayerTriggered</subEffecterClass>
+                <positionRadius>0.4</positionRadius>
+                <fleckDef>AirPuff</fleckDef>
+                <burstCount>4~5</burstCount>
+                <speed>0.4~0.8</speed>
+                <scale>1.0~1.1</scale>
+                <color>(1, 177, 175)</color>
+                <spawnLocType>OnSource</spawnLocType>
+            </li>
+            <li>
+                <subEffecterClass>SubEffecter_SprayerTriggered</subEffecterClass>
+                <positionRadius>0.1</positionRadius>
+                <fleckDef>BloodSplash</fleckDef>
+                <burstCount>2~3</burstCount>
+                <scale>1.1~1.4</scale>
+                <color>(1, 177, 175)</color>
+                <spawnLocType>OnSource</spawnLocType>
+            </li>
+            <li>
+                <subEffecterClass>SubEffecter_SprayerTriggered</subEffecterClass>
+                <positionRadius>0.0</positionRadius>
+                <fleckDef>BodyImpact</fleckDef>
+                <burstCount>1</burstCount>
+                <scale>0.4</scale>
+                <color>(1, 177, 175)</color>
+                <spawnLocType>OnSource</spawnLocType>
+            </li>
+        </children>
+        <offsetTowardsTarget>0.25~0.25</offsetTowardsTarget>
+        <positionRadius>0.1</positionRadius>
+    </EffecterDef>
+
+    <EffecterDef>
+        <defName>GEB_Damage_Bluegill</defName>
+        <children>
+            <li>
+                <subEffecterClass>SubEffecter_SprayerTriggered</subEffecterClass>
+                <positionRadius>0.4</positionRadius>
+                <fleckDef>AirPuff</fleckDef>
+                <burstCount>4~5</burstCount>
+                <speed>0.4~0.8</speed>
+                <scale>1.0~1.1</scale>
+                <color>(0, 105, 170)</color>
+                <spawnLocType>OnSource</spawnLocType>
+            </li>
+            <li>
+                <subEffecterClass>SubEffecter_SprayerTriggered</subEffecterClass>
+                <positionRadius>0.1</positionRadius>
+                <fleckDef>BloodSplash</fleckDef>
+                <burstCount>2~3</burstCount>
+                <scale>1.1~1.4</scale>
+                <color>(0, 105, 170)</color>
+                <spawnLocType>OnSource</spawnLocType>
+            </li>
+            <li>
+                <subEffecterClass>SubEffecter_SprayerTriggered</subEffecterClass>
+                <positionRadius>0.0</positionRadius>
+                <fleckDef>BodyImpact</fleckDef>
+                <burstCount>1</burstCount>
+                <scale>0.4</scale>
+                <color>(0, 105, 170)</color>
+                <spawnLocType>OnSource</spawnLocType>
+            </li>
+        </children>
+        <offsetTowardsTarget>0.25~0.25</offsetTowardsTarget>
+        <positionRadius>0.1</positionRadius>
+    </EffecterDef>
+
+    <EffecterDef>
+        <defName>GEB_Damage_BlueSuede</defName>
+        <children>
+            <li>
+                <subEffecterClass>SubEffecter_SprayerTriggered</subEffecterClass>
+                <positionRadius>0.4</positionRadius>
+                <fleckDef>AirPuff</fleckDef>
+                <burstCount>4~5</burstCount>
+                <speed>0.4~0.8</speed>
+                <scale>1.0~1.1</scale>
+                <color>(19, 72, 140)</color>
+                <spawnLocType>OnSource</spawnLocType>
+            </li>
+            <li>
+                <subEffecterClass>SubEffecter_SprayerTriggered</subEffecterClass>
+                <positionRadius>0.1</positionRadius>
+                <fleckDef>BloodSplash</fleckDef>
+                <burstCount>2~3</burstCount>
+                <scale>1.1~1.4</scale>
+                <color>(19, 72, 140)</color>
+                <spawnLocType>OnSource</spawnLocType>
+            </li>
+            <li>
+                <subEffecterClass>SubEffecter_SprayerTriggered</subEffecterClass>
+                <positionRadius>0.0</positionRadius>
+                <fleckDef>BodyImpact</fleckDef>
+                <burstCount>1</burstCount>
+                <scale>0.4</scale>
+                <color>(19, 72, 140)</color>
+                <spawnLocType>OnSource</spawnLocType>
+            </li>
+        </children>
+        <offsetTowardsTarget>0.25~0.25</offsetTowardsTarget>
+        <positionRadius>0.1</positionRadius>
+    </EffecterDef>
+
+    <EffecterDef>
+        <defName>GEB_Damage_SummerSky</defName>
+        <children>
+            <li>
+                <subEffecterClass>SubEffecter_SprayerTriggered</subEffecterClass>
+                <positionRadius>0.4</positionRadius>
+                <fleckDef>AirPuff</fleckDef>
+                <burstCount>4~5</burstCount>
+                <speed>0.4~0.8</speed>
+                <scale>1.0~1.1</scale>
+                <color>(0, 158, 221)</color>
+                <spawnLocType>OnSource</spawnLocType>
+            </li>
+            <li>
+                <subEffecterClass>SubEffecter_SprayerTriggered</subEffecterClass>
+                <positionRadius>0.1</positionRadius>
+                <fleckDef>BloodSplash</fleckDef>
+                <burstCount>2~3</burstCount>
+                <scale>1.1~1.4</scale>
+                <color>(0, 158, 221)</color>
+                <spawnLocType>OnSource</spawnLocType>
+            </li>
+            <li>
+                <subEffecterClass>SubEffecter_SprayerTriggered</subEffecterClass>
+                <positionRadius>0.0</positionRadius>
+                <fleckDef>BodyImpact</fleckDef>
+                <burstCount>1</burstCount>
+                <scale>0.4</scale>
+                <color>(0, 158, 221)</color>
+                <spawnLocType>OnSource</spawnLocType>
+            </li>
+        </children>
+        <offsetTowardsTarget>0.25~0.25</offsetTowardsTarget>
+        <positionRadius>0.1</positionRadius>
+    </EffecterDef>
+
+    <EffecterDef>
+        <defName>GEB_Damage_TidalPool</defName>
+        <children>
+            <li>
+                <subEffecterClass>SubEffecter_SprayerTriggered</subEffecterClass>
+                <positionRadius>0.4</positionRadius>
+                <fleckDef>AirPuff</fleckDef>
+                <burstCount>4~5</burstCount>
+                <speed>0.4~0.8</speed>
+                <scale>1.0~1.1</scale>
+                <color>(1, 90, 132)</color>
+                <spawnLocType>OnSource</spawnLocType>
+            </li>
+            <li>
+                <subEffecterClass>SubEffecter_SprayerTriggered</subEffecterClass>
+                <positionRadius>0.1</positionRadius>
+                <fleckDef>BloodSplash</fleckDef>
+                <burstCount>2~3</burstCount>
+                <scale>1.1~1.4</scale>
+                <color>(1, 90, 132)</color>
+                <spawnLocType>OnSource</spawnLocType>
+            </li>
+            <li>
+                <subEffecterClass>SubEffecter_SprayerTriggered</subEffecterClass>
+                <positionRadius>0.0</positionRadius>
+                <fleckDef>BodyImpact</fleckDef>
+                <burstCount>1</burstCount>
+                <scale>0.4</scale>
+                <color>(1, 90, 132)</color>
+                <spawnLocType>OnSource</spawnLocType>
+            </li>
+        </children>
+        <offsetTowardsTarget>0.25~0.25</offsetTowardsTarget>
+        <positionRadius>0.1</positionRadius>
+    </EffecterDef>
+
+    <EffecterDef>
+        <defName>GEB_Damage_MauiSurf</defName>
+        <children>
+            <li>
+                <subEffecterClass>SubEffecter_SprayerTriggered</subEffecterClass>
+                <positionRadius>0.4</positionRadius>
+                <fleckDef>AirPuff</fleckDef>
+                <burstCount>4~5</burstCount>
+                <speed>0.4~0.8</speed>
+                <scale>1.0~1.1</scale>
+                <color>(1, 181, 204)</color>
+                <spawnLocType>OnSource</spawnLocType>
+            </li>
+            <li>
+                <subEffecterClass>SubEffecter_SprayerTriggered</subEffecterClass>
+                <positionRadius>0.1</positionRadius>
+                <fleckDef>BloodSplash</fleckDef>
+                <burstCount>2~3</burstCount>
+                <scale>1.1~1.4</scale>
+                <color>(1, 181, 204)</color>
+                <spawnLocType>OnSource</spawnLocType>
+            </li>
+            <li>
+                <subEffecterClass>SubEffecter_SprayerTriggered</subEffecterClass>
+                <positionRadius>0.0</positionRadius>
+                <fleckDef>BodyImpact</fleckDef>
+                <burstCount>1</burstCount>
+                <scale>0.4</scale>
+                <color>(1, 181, 204)</color>
+                <spawnLocType>OnSource</spawnLocType>
+            </li>
+        </children>
+        <offsetTowardsTarget>0.25~0.25</offsetTowardsTarget>
+        <positionRadius>0.1</positionRadius>
+    </EffecterDef>
+
+    <EffecterDef>
+        <defName>GEB_Damage_CoolAzul</defName>
+        <children>
+            <li>
+                <subEffecterClass>SubEffecter_SprayerTriggered</subEffecterClass>
+                <positionRadius>0.4</positionRadius>
+                <fleckDef>AirPuff</fleckDef>
+                <burstCount>4~5</burstCount>
+                <speed>0.4~0.8</speed>
+                <scale>1.0~1.1</scale>
+                <color>(0, 113, 143)</color>
+                <spawnLocType>OnSource</spawnLocType>
+            </li>
+            <li>
+                <subEffecterClass>SubEffecter_SprayerTriggered</subEffecterClass>
+                <positionRadius>0.1</positionRadius>
+                <fleckDef>BloodSplash</fleckDef>
+                <burstCount>2~3</burstCount>
+                <scale>1.1~1.4</scale>
+                <color>(0, 113, 143)</color>
+                <spawnLocType>OnSource</spawnLocType>
+            </li>
+            <li>
+                <subEffecterClass>SubEffecter_SprayerTriggered</subEffecterClass>
+                <positionRadius>0.0</positionRadius>
+                <fleckDef>BodyImpact</fleckDef>
+                <burstCount>1</burstCount>
+                <scale>0.4</scale>
+                <color>(0, 113, 143)</color>
+                <spawnLocType>OnSource</spawnLocType>
+            </li>
+        </children>
+        <offsetTowardsTarget>0.25~0.25</offsetTowardsTarget>
+        <positionRadius>0.1</positionRadius>
+    </EffecterDef>
+
+    <EffecterDef>
+        <defName>GEB_Damage_RegalBlue</defName>
+        <children>
+            <li>
+                <subEffecterClass>SubEffecter_SprayerTriggered</subEffecterClass>
+                <positionRadius>0.4</positionRadius>
+                <fleckDef>AirPuff</fleckDef>
+                <burstCount>4~5</burstCount>
+                <speed>0.4~0.8</speed>
+                <scale>1.0~1.1</scale>
+                <color>(31, 67, 138)</color>
+                <spawnLocType>OnSource</spawnLocType>
+            </li>
+            <li>
+                <subEffecterClass>SubEffecter_SprayerTriggered</subEffecterClass>
+                <positionRadius>0.1</positionRadius>
+                <fleckDef>BloodSplash</fleckDef>
+                <burstCount>2~3</burstCount>
+                <scale>1.1~1.4</scale>
+                <color>(31, 67, 138)</color>
+                <spawnLocType>OnSource</spawnLocType>
+            </li>
+            <li>
+                <subEffecterClass>SubEffecter_SprayerTriggered</subEffecterClass>
+                <positionRadius>0.0</positionRadius>
+                <fleckDef>BodyImpact</fleckDef>
+                <burstCount>1</burstCount>
+                <scale>0.4</scale>
+                <color>(31, 67, 138)</color>
+                <spawnLocType>OnSource</spawnLocType>
+            </li>
+        </children>
+        <offsetTowardsTarget>0.25~0.25</offsetTowardsTarget>
+        <positionRadius>0.1</positionRadius>
+    </EffecterDef>
+
+    <EffecterDef>
+        <defName>GEB_Damage_WildBlueberry</defName>
+        <children>
+            <li>
+                <subEffecterClass>SubEffecter_SprayerTriggered</subEffecterClass>
+                <positionRadius>0.4</positionRadius>
+                <fleckDef>AirPuff</fleckDef>
+                <burstCount>4~5</burstCount>
+                <speed>0.4~0.8</speed>
+                <scale>1.0~1.1</scale>
+                <color>(1, 104, 179)</color>
+                <spawnLocType>OnSource</spawnLocType>
+            </li>
+            <li>
+                <subEffecterClass>SubEffecter_SprayerTriggered</subEffecterClass>
+                <positionRadius>0.1</positionRadius>
+                <fleckDef>BloodSplash</fleckDef>
+                <burstCount>2~3</burstCount>
+                <scale>1.1~1.4</scale>
+                <color>(1, 104, 179)</color>
+                <spawnLocType>OnSource</spawnLocType>
+            </li>
+            <li>
+                <subEffecterClass>SubEffecter_SprayerTriggered</subEffecterClass>
+                <positionRadius>0.0</positionRadius>
+                <fleckDef>BodyImpact</fleckDef>
+                <burstCount>1</burstCount>
+                <scale>0.4</scale>
+                <color>(1, 104, 179)</color>
+                <spawnLocType>OnSource</spawnLocType>
+            </li>
+        </children>
+        <offsetTowardsTarget>0.25~0.25</offsetTowardsTarget>
+        <positionRadius>0.1</positionRadius>
+    </EffecterDef>
+
+    <EffecterDef>
+        <defName>GEB_Damage_Cobalt</defName>
+        <children>
+            <li>
+                <subEffecterClass>SubEffecter_SprayerTriggered</subEffecterClass>
+                <positionRadius>0.4</positionRadius>
+                <fleckDef>AirPuff</fleckDef>
+                <burstCount>4~5</burstCount>
+                <speed>0.4~0.8</speed>
+                <scale>1.0~1.1</scale>
+                <color>(0, 72, 144)</color>
+                <spawnLocType>OnSource</spawnLocType>
+            </li>
+            <li>
+                <subEffecterClass>SubEffecter_SprayerTriggered</subEffecterClass>
+                <positionRadius>0.1</positionRadius>
+                <fleckDef>BloodSplash</fleckDef>
+                <burstCount>2~3</burstCount>
+                <scale>1.1~1.4</scale>
+                <color>(0, 72, 144)</color>
+                <spawnLocType>OnSource</spawnLocType>
+            </li>
+            <li>
+                <subEffecterClass>SubEffecter_SprayerTriggered</subEffecterClass>
+                <positionRadius>0.0</positionRadius>
+                <fleckDef>BodyImpact</fleckDef>
+                <burstCount>1</burstCount>
+                <scale>0.4</scale>
+                <color>(0, 72, 144)</color>
+                <spawnLocType>OnSource</spawnLocType>
+            </li>
+        </children>
+        <offsetTowardsTarget>0.25~0.25</offsetTowardsTarget>
+        <positionRadius>0.1</positionRadius>
+    </EffecterDef>
+
+    <EffecterDef>
+        <defName>GEB_Damage_BlueMarlin</defName>
+        <children>
+            <li>
+                <subEffecterClass>SubEffecter_SprayerTriggered</subEffecterClass>
+                <positionRadius>0.4</positionRadius>
+                <fleckDef>AirPuff</fleckDef>
+                <burstCount>4~5</burstCount>
+                <speed>0.4~0.8</speed>
+                <scale>1.0~1.1</scale>
+                <color>(0, 81, 136)</color>
+                <spawnLocType>OnSource</spawnLocType>
+            </li>
+            <li>
+                <subEffecterClass>SubEffecter_SprayerTriggered</subEffecterClass>
+                <positionRadius>0.1</positionRadius>
+                <fleckDef>BloodSplash</fleckDef>
+                <burstCount>2~3</burstCount>
+                <scale>1.1~1.4</scale>
+                <color>(0, 81, 136)</color>
+                <spawnLocType>OnSource</spawnLocType>
+            </li>
+            <li>
+                <subEffecterClass>SubEffecter_SprayerTriggered</subEffecterClass>
+                <positionRadius>0.0</positionRadius>
+                <fleckDef>BodyImpact</fleckDef>
+                <burstCount>1</burstCount>
+                <scale>0.4</scale>
+                <color>(0, 81, 136)</color>
+                <spawnLocType>OnSource</spawnLocType>
+            </li>
+        </children>
+        <offsetTowardsTarget>0.25~0.25</offsetTowardsTarget>
+        <positionRadius>0.1</positionRadius>
+    </EffecterDef>
+
+    <EffecterDef>
+        <defName>GEB_Damage_Blurple</defName>
+        <children>
+            <li>
+                <subEffecterClass>SubEffecter_SprayerTriggered</subEffecterClass>
+                <positionRadius>0.4</positionRadius>
+                <fleckDef>AirPuff</fleckDef>
+                <burstCount>4~5</burstCount>
+                <speed>0.4~0.8</speed>
+                <scale>1.0~1.1</scale>
+                <color>(39, 54, 147)</color>
+                <spawnLocType>OnSource</spawnLocType>
+            </li>
+            <li>
+                <subEffecterClass>SubEffecter_SprayerTriggered</subEffecterClass>
+                <positionRadius>0.1</positionRadius>
+                <fleckDef>BloodSplash</fleckDef>
+                <burstCount>2~3</burstCount>
+                <scale>1.1~1.4</scale>
+                <color>(39, 54, 147)</color>
+                <spawnLocType>OnSource</spawnLocType>
+            </li>
+            <li>
+                <subEffecterClass>SubEffecter_SprayerTriggered</subEffecterClass>
+                <positionRadius>0.0</positionRadius>
+                <fleckDef>BodyImpact</fleckDef>
+                <burstCount>1</burstCount>
+                <scale>0.4</scale>
+                <color>(39, 54, 147)</color>
+                <spawnLocType>OnSource</spawnLocType>
+            </li>
+        </children>
+        <offsetTowardsTarget>0.25~0.25</offsetTowardsTarget>
+        <positionRadius>0.1</positionRadius>
+    </EffecterDef>
+
+    <EffecterDef>
+        <defName>GEB_Damage_Gulfstream</defName>
+        <children>
+            <li>
+                <subEffecterClass>SubEffecter_SprayerTriggered</subEffecterClass>
+                <positionRadius>0.4</positionRadius>
+                <fleckDef>AirPuff</fleckDef>
+                <burstCount>4~5</burstCount>
+                <speed>0.4~0.8</speed>
+                <scale>1.0~1.1</scale>
+                <color>(0, 74, 101)</color>
+                <spawnLocType>OnSource</spawnLocType>
+            </li>
+            <li>
+                <subEffecterClass>SubEffecter_SprayerTriggered</subEffecterClass>
+                <positionRadius>0.1</positionRadius>
+                <fleckDef>BloodSplash</fleckDef>
+                <burstCount>2~3</burstCount>
+                <scale>1.1~1.4</scale>
+                <color>(0, 74, 101)</color>
+                <spawnLocType>OnSource</spawnLocType>
+            </li>
+            <li>
+                <subEffecterClass>SubEffecter_SprayerTriggered</subEffecterClass>
+                <positionRadius>0.0</positionRadius>
+                <fleckDef>BodyImpact</fleckDef>
+                <burstCount>1</burstCount>
+                <scale>0.4</scale>
+                <color>(0, 74, 101)</color>
+                <spawnLocType>OnSource</spawnLocType>
+            </li>
+        </children>
+        <offsetTowardsTarget>0.25~0.25</offsetTowardsTarget>
+        <positionRadius>0.1</positionRadius>
+    </EffecterDef>
+
+    <EffecterDef>
+        <defName>GEB_Damage_DeepSea</defName>
+        <children>
+            <li>
+                <subEffecterClass>SubEffecter_SprayerTriggered</subEffecterClass>
+                <positionRadius>0.4</positionRadius>
+                <fleckDef>AirPuff</fleckDef>
+                <burstCount>4~5</burstCount>
+                <speed>0.4~0.8</speed>
+                <scale>1.0~1.1</scale>
+                <color>(1, 85, 129)</color>
+                <spawnLocType>OnSource</spawnLocType>
+            </li>
+            <li>
+                <subEffecterClass>SubEffecter_SprayerTriggered</subEffecterClass>
+                <positionRadius>0.1</positionRadius>
+                <fleckDef>BloodSplash</fleckDef>
+                <burstCount>2~3</burstCount>
+                <scale>1.1~1.4</scale>
+                <color>(1, 85, 129)</color>
+                <spawnLocType>OnSource</spawnLocType>
+            </li>
+            <li>
+                <subEffecterClass>SubEffecter_SprayerTriggered</subEffecterClass>
+                <positionRadius>0.0</positionRadius>
+                <fleckDef>BodyImpact</fleckDef>
+                <burstCount>1</burstCount>
+                <scale>0.4</scale>
+                <color>(1, 85, 129)</color>
+                <spawnLocType>OnSource</spawnLocType>
+            </li>
+        </children>
+        <offsetTowardsTarget>0.25~0.25</offsetTowardsTarget>
+        <positionRadius>0.1</positionRadius>
+    </EffecterDef>
+
 </Defs>
