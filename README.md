@@ -1,4 +1,3 @@
-```markdown
 ![img](https://i.imgur.com/PYPncT6.png)
 This mod introduces an expansive palette of 75 new blood colours to RimWorld, This mod is purely cosmetic and won't change anything about the base game.
 
@@ -31,4 +30,3 @@ Rimworld is owned by Tynan Sylvester.
 CC BY-NC-ND 4.0 [creativecommons.org](https://creativecommons.org)
 
 You may create patches or translations for this mod. You must not re-upload or modify the original files. This includes re-uploading this mod to other websites.
-```
