@@ -1,6 +1,10 @@
 <loadFolders>
     <v1.5>
-        <li>Common</li>
         <li>Versions/1.5</li>
+        <li>Common</li>
+        <li IfModActive="lazyfridaystudio.xenosexpanded">Compatibility/LFSXenosExpanded/</li>
+        <li IfModActive="det.boglegs">Compatibility/DetBoglegs/</li>
+        <li IfModActive="det.venators">Compatibility/DetVenators</li>
+        <li IfModActive="det.avaloi">Compatibility/DetAvaloi</li>
     </v1.5>
 </loadFolders>

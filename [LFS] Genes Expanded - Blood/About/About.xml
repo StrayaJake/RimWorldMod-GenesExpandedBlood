@@ -37,5 +37,9 @@
         <li>Ludeon.RimWorld.Biotech</li>
         <li>Ludeon.RimWorld.Anomaly</li>
         <li>OskarPotocki.VanillaFactionsExpanded.Core</li>
+        <li>lazyfridaystudio.xenosexpanded</li>
+        <li>det.boglegs</li>
+        <li>det.venators</li>
+        <li>det.avaloi</li>
     </loadAfter>
 </ModMetaData>
