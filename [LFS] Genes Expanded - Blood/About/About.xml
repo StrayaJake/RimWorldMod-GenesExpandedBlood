@@ -41,5 +41,11 @@
         <li>det.boglegs</li>
         <li>det.venators</li>
         <li>det.avaloi</li>
+        <li>vanillaracesexpanded.archon</li>
+        <li>vanillaracesexpanded.pigskin</li>
+        <li>vanillaracesexpanded.lycanthrope</li>
+        <li>vanillaracesexpanded.saurid</li>
+        <li>vanillaracesexpanded.highmate</li>
+        <li>vanillaracesexpanded.sanguophage</li>
     </loadAfter>
 </ModMetaData>
