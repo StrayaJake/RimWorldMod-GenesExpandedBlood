@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+    <Operation Class="PatchOperationSequence">
+        <operations>
+            <li Class="PatchOperationAdd">
+                <xpath>/Defs/XenotypeDef[defName="RS_Charmweaver"]/genes</xpath>
+                <value>
+                    <li>GEB_Blood_Grape</li>
+                </value>
+            </li>
+        </operations>
+    </Operation>
+</Patch>
