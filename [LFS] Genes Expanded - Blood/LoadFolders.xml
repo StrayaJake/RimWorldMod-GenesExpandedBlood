@@ -16,5 +16,6 @@
         <li IfModActive="Turnovus.Biotech.IntegratedXenotypes">Compatibility/IntegratedXenos</li>
         <li IfModActive="LimeTreeSnake.Xenotech">Compatibility/LTSXenoTech</li>
         <li IfModActive="ReSplice.XOTR.Charmweavers">Compatibility/Charmweavers</li>
+        <li IfModActive="ElSov.Beliar">Compatibility/Beliar</li>
     </v1.5>
 </loadFolders>
