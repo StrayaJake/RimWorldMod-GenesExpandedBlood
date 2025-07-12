@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <Defs>
-
     <!--********************* Yellow *********************-->
+    <!-- Yellow Fin -->
+    <ThingDef ParentName="FilthBlood">
+        <defName>GEB_Filth_Yellowfin_BloodSmear</defName>
+        <label>Yellow Blood Smear</label>
+        <graphicData>
+            <texPath>Things/Filth/CrawlSmear</texPath>
+            <color>(243, 240, 143)</color>
+            <graphicClass>Graphic_ClusterTight</graphicClass>
+            <drawSize>0.9</drawSize>
+        </graphicData>
+    </ThingDef>
+
     <EffecterDef>
         <defName>GEB_Damage_Yellowfin</defName>
         <children>
@@ -39,6 +50,18 @@
         <positionRadius>0.1</positionRadius>
     </EffecterDef>
 
+    <!-- BananaSplit Fin -->
+    <ThingDef ParentName="FilthBlood">
+        <defName>GEB_Filth_BananaSplit_BloodSmear</defName>
+        <label>BananaSplit Blood Smear</label>
+        <graphicData>
+            <texPath>Things/Filth/CrawlSmear</texPath>
+            <color>(254, 228, 131)</color>
+            <graphicClass>Graphic_ClusterTight</graphicClass>
+            <drawSize>0.9</drawSize>
+        </graphicData>
+    </ThingDef>
+
     <EffecterDef>
         <defName>GEB_Damage_BananaSplit</defName>
         <children>
@@ -74,6 +97,18 @@
         <offsetTowardsTarget>0.25~0.25</offsetTowardsTarget>
         <positionRadius>0.1</positionRadius>
     </EffecterDef>
+
+    <!-- TaxiCab Fin -->
+    <ThingDef ParentName="FilthBlood">
+        <defName>GEB_Filth_TaxiCab_BloodSmear</defName>
+        <label>TaxiCab Blood Smear</label>
+        <graphicData>
+            <texPath>Things/Filth/CrawlSmear</texPath>
+            <color>(255, 211, 80)</color>
+            <graphicClass>Graphic_ClusterTight</graphicClass>
+            <drawSize>0.9</drawSize>
+        </graphicData>
+    </ThingDef>
 
     <EffecterDef>
         <defName>GEB_Damage_TaxiCab</defName>
@@ -112,6 +147,18 @@
     </EffecterDef>
 
     <!--********************* Orange *********************-->
+    <!-- GoldFish -->
+    <ThingDef ParentName="FilthBlood">
+        <defName>GEB_Filth_GoldFish_BloodSmear</defName>
+        <label>GoldFish Blood Smear</label>
+        <graphicData>
+            <texPath>Things/Filth/CrawlSmear</texPath>
+            <color>(248, 152, 29)</color>
+            <graphicClass>Graphic_ClusterTight</graphicClass>
+            <drawSize>0.9</drawSize>
+        </graphicData>
+    </ThingDef>
+
     <EffecterDef>
         <defName>GEB_Damage_GoldFish</defName>
         <children>
@@ -147,6 +194,18 @@
         <offsetTowardsTarget>0.25~0.25</offsetTowardsTarget>
         <positionRadius>0.1</positionRadius>
     </EffecterDef>
+
+    <!-- BurntOrange -->
+    <ThingDef ParentName="FilthBlood">
+        <defName>GEB_Filth_BurntOrange_BloodSmear</defName>
+        <label>BurntOrange Blood Smear</label>
+        <graphicData>
+            <texPath>Things/Filth/CrawlSmear</texPath>
+            <color>(208, 112, 28)</color>
+            <graphicClass>Graphic_ClusterTight</graphicClass>
+            <drawSize>0.9</drawSize>
+        </graphicData>
+    </ThingDef>
 
     <EffecterDef>
         <defName>GEB_Damage_BurntOrange</defName>
@@ -184,6 +243,18 @@
         <positionRadius>0.1</positionRadius>
     </EffecterDef>
 
+    <!-- Clay -->
+    <ThingDef ParentName="FilthBlood">
+        <defName>GEB_Filth_Clay_BloodSmear</defName>
+        <label>Clay Blood Smear</label>
+        <graphicData>
+            <texPath>Things/Filth/CrawlSmear</texPath>
+            <color>(229, 113, 30)</color>
+            <graphicClass>Graphic_ClusterTight</graphicClass>
+            <drawSize>0.9</drawSize>
+        </graphicData>
+    </ThingDef>
+
     <EffecterDef>
         <defName>GEB_Damage_Clay</defName>
         <children>
@@ -219,6 +290,18 @@
         <offsetTowardsTarget>0.25~0.25</offsetTowardsTarget>
         <positionRadius>0.1</positionRadius>
     </EffecterDef>
+
+    <!-- Tangerine -->
+    <ThingDef ParentName="FilthBlood">
+        <defName>GEB_Filth_Tangerine_BloodSmear</defName>
+        <label>Tangerine Blood Smear</label>
+        <graphicData>
+            <texPath>Things/Filth/CrawlSmear</texPath>
+            <color>(245, 116, 33)</color>
+            <graphicClass>Graphic_ClusterTight</graphicClass>
+            <drawSize>0.9</drawSize>
+        </graphicData>
+    </ThingDef>
 
     <EffecterDef>
         <defName>GEB_Damage_Tangerine</defName>
@@ -257,6 +340,17 @@
     </EffecterDef>
 
     <!--********************* Purple *********************-->
+    <!-- PaleLavender -->
+    <ThingDef ParentName="FilthBlood">
+        <defName>GEB_Filth_PaleLavender_BloodSmear</defName>
+        <label>PaleLavender Blood Smear</label>
+        <graphicData>
+            <texPath>Things/Filth/CrawlSmear</texPath>
+            <color>(227, 203, 225)</color>
+            <graphicClass>Graphic_ClusterTight</graphicClass>
+            <drawSize>0.9</drawSize>
+        </graphicData>
+    </ThingDef>
     <EffecterDef>
         <defName>GEB_Damage_PaleLavender</defName>
         <children>
@@ -293,6 +387,17 @@
         <positionRadius>0.1</positionRadius>
     </EffecterDef>
 
+    <!-- Lilac -->
+    <ThingDef ParentName="FilthBlood">
+        <defName>GEB_Filth_Lilac_BloodSmear</defName>
+        <label>Lilac Blood Smear</label>
+        <graphicData>
+            <texPath>Things/Filth/CrawlSmear</texPath>
+            <color>(153, 108, 165)</color>
+            <graphicClass>Graphic_ClusterTight</graphicClass>
+            <drawSize>0.9</drawSize>
+        </graphicData>
+    </ThingDef>
     <EffecterDef>
         <defName>GEB_Damage_Lilac</defName>
         <children>
@@ -329,6 +434,17 @@
         <positionRadius>0.1</positionRadius>
     </EffecterDef>
 
+    <!-- Orchid -->
+    <ThingDef ParentName="FilthBlood">
+        <defName>GEB_Filth_Orchid_BloodSmear</defName>
+        <label>Orchid Blood Smear</label>
+        <graphicData>
+            <texPath>Things/Filth/CrawlSmear</texPath>
+            <color>(192, 129, 184)</color>
+            <graphicClass>Graphic_ClusterTight</graphicClass>
+            <drawSize>0.9</drawSize>
+        </graphicData>
+    </ThingDef>
     <EffecterDef>
         <defName>GEB_Damage_Orchid</defName>
         <children>
@@ -365,6 +481,17 @@
         <positionRadius>0.1</positionRadius>
     </EffecterDef>
 
+    <!-- Plum -->
+    <ThingDef ParentName="FilthBlood">
+        <defName>GEB_Filth_Plum_BloodSmear</defName>
+        <label>Plum Blood Smear</label>
+        <graphicData>
+            <texPath>Things/Filth/CrawlSmear</texPath>
+            <color>(135, 33, 117)</color>
+            <graphicClass>Graphic_ClusterTight</graphicClass>
+            <drawSize>0.9</drawSize>
+        </graphicData>
+    </ThingDef>
     <EffecterDef>
         <defName>GEB_Damage_Plum</defName>
         <children>
@@ -401,6 +528,17 @@
         <positionRadius>0.1</positionRadius>
     </EffecterDef>
 
+    <!-- Violet -->
+    <ThingDef ParentName="FilthBlood">
+        <defName>GEB_Filth_Violet_BloodSmear</defName>
+        <label>Violet Blood Smear</label>
+        <graphicData>
+            <texPath>Things/Filth/CrawlSmear</texPath>
+            <color>(146, 39, 143)</color>
+            <graphicClass>Graphic_ClusterTight</graphicClass>
+            <drawSize>0.9</drawSize>
+        </graphicData>
+    </ThingDef>
     <EffecterDef>
         <defName>GEB_Damage_Violet</defName>
         <children>
@@ -437,6 +575,17 @@
         <positionRadius>0.1</positionRadius>
     </EffecterDef>
 
+    <!-- Grape -->
+    <ThingDef ParentName="FilthBlood">
+        <defName>GEB_Filth_Grape_BloodSmear</defName>
+        <label>Grape Blood Smear</label>
+        <graphicData>
+            <texPath>Things/Filth/CrawlSmear</texPath>
+            <color>(82, 35, 127)</color>
+            <graphicClass>Graphic_ClusterTight</graphicClass>
+            <drawSize>0.9</drawSize>
+        </graphicData>
+    </ThingDef>
     <EffecterDef>
         <defName>GEB_Damage_Grape</defName>
         <children>
@@ -473,6 +622,17 @@
         <positionRadius>0.1</positionRadius>
     </EffecterDef>
 
+    <!-- Purple -->
+    <ThingDef ParentName="FilthBlood">
+        <defName>GEB_Filth_Purple_BloodSmear</defName>
+        <label>Purple Blood Smear</label>
+        <graphicData>
+            <texPath>Things/Filth/CrawlSmear</texPath>
+            <color>(54, 43, 112)</color>
+            <graphicClass>Graphic_ClusterTight</graphicClass>
+            <drawSize>0.9</drawSize>
+        </graphicData>
+    </ThingDef>
     <EffecterDef>
         <defName>GEB_Damage_Purple</defName>
         <children>
@@ -509,6 +669,17 @@
         <positionRadius>0.1</positionRadius>
     </EffecterDef>
 
+    <!-- Amethyst -->
+    <ThingDef ParentName="FilthBlood">
+        <defName>GEB_Filth_Amethyst_BloodSmear</defName>
+        <label>Amethyst Blood Smear</label>
+        <graphicData>
+            <texPath>Things/Filth/CrawlSmear</texPath>
+            <color>(113, 112, 178)</color>
+            <graphicClass>Graphic_ClusterTight</graphicClass>
+            <drawSize>0.9</drawSize>
+        </graphicData>
+    </ThingDef>
     <EffecterDef>
         <defName>GEB_Damage_Amethyst</defName>
         <children>
@@ -545,6 +716,17 @@
         <positionRadius>0.1</positionRadius>
     </EffecterDef>
 
+    <!-- PurpleHeart -->
+    <ThingDef ParentName="FilthBlood">
+        <defName>GEB_Filth_PurpleHeart_BloodSmear</defName>
+        <label>PurpleHeart Blood Smear</label>
+        <graphicData>
+            <texPath>Things/Filth/CrawlSmear</texPath>
+            <color>(58, 53, 120)</color>
+            <graphicClass>Graphic_ClusterTight</graphicClass>
+            <drawSize>0.9</drawSize>
+        </graphicData>
+    </ThingDef>
     <EffecterDef>
         <defName>GEB_Damage_PurpleHeart</defName>
         <children>
@@ -582,6 +764,17 @@
     </EffecterDef>
 
     <!--********************* Red *********************-->
+    <!-- Bubblegum -->
+    <ThingDef ParentName="FilthBlood">
+        <defName>GEB_Filth_Bubblegum_BloodSmear</defName>
+        <label>Bubblegum Blood Smear</label>
+        <graphicData>
+            <texPath>Things/Filth/CrawlSmear</texPath>
+            <color>(243, 148, 190)</color>
+            <graphicClass>Graphic_ClusterTight</graphicClass>
+            <drawSize>0.9</drawSize>
+        </graphicData>
+    </ThingDef>
     <EffecterDef>
         <defName>GEB_Damage_Bubblegum</defName>
         <children>
@@ -618,6 +811,17 @@
         <positionRadius>0.1</positionRadius>
     </EffecterDef>
 
+    <!-- Fuchsia -->
+    <ThingDef ParentName="FilthBlood">
+        <defName>GEB_Filth_Fuchsia_BloodSmear</defName>
+        <label>Fuchsia Blood Smear</label>
+        <graphicData>
+            <texPath>Things/Filth/CrawlSmear</texPath>
+            <color>(236, 6, 141)</color>
+            <graphicClass>Graphic_ClusterTight</graphicClass>
+            <drawSize>0.9</drawSize>
+        </graphicData>
+    </ThingDef>
     <EffecterDef>
         <defName>GEB_Damage_Fuchsia</defName>
         <children>
@@ -654,6 +858,17 @@
         <positionRadius>0.1</positionRadius>
     </EffecterDef>
 
+    <!-- Rose -->
+    <ThingDef ParentName="FilthBlood">
+        <defName>GEB_Filth_Rose_BloodSmear</defName>
+        <label>Rose Blood Smear</label>
+        <graphicData>
+            <texPath>Things/Filth/CrawlSmear</texPath>
+            <color>(212, 32, 43)</color>
+            <graphicClass>Graphic_ClusterTight</graphicClass>
+            <drawSize>0.9</drawSize>
+        </graphicData>
+    </ThingDef>
     <EffecterDef>
         <defName>GEB_Damage_Rose</defName>
         <children>
@@ -690,6 +905,17 @@
         <positionRadius>0.1</positionRadius>
     </EffecterDef>
 
+    <!-- Raspberry -->
+    <ThingDef ParentName="FilthBlood">
+        <defName>GEB_Filth_Raspberry_BloodSmear</defName>
+        <label>Raspberry Blood Smear</label>
+        <graphicData>
+            <texPath>Things/Filth/CrawlSmear</texPath>
+            <color>(201, 1, 108)</color>
+            <graphicClass>Graphic_ClusterTight</graphicClass>
+            <drawSize>0.9</drawSize>
+        </graphicData>
+    </ThingDef>
     <EffecterDef>
         <defName>GEB_Damage_Raspberry</defName>
         <children>
@@ -726,6 +952,17 @@
         <positionRadius>0.1</positionRadius>
     </EffecterDef>
 
+    <!-- Redfish -->
+    <ThingDef ParentName="FilthBlood">
+        <defName>GEB_Filth_Redfish_BloodSmear</defName>
+        <label>Redfish Blood Smear</label>
+        <graphicData>
+            <texPath>Things/Filth/CrawlSmear</texPath>
+            <color>(239, 49, 37)</color>
+            <graphicClass>Graphic_ClusterTight</graphicClass>
+            <drawSize>0.9</drawSize>
+        </graphicData>
+    </ThingDef>
     <EffecterDef>
         <defName>GEB_Damage_Redfish</defName>
         <children>
@@ -762,6 +999,17 @@
         <positionRadius>0.1</positionRadius>
     </EffecterDef>
 
+    <!-- FireRed -->
+    <ThingDef ParentName="FilthBlood">
+        <defName>GEB_Filth_FireRed_BloodSmear</defName>
+        <label>FireRed Blood Smear</label>
+        <graphicData>
+            <texPath>Things/Filth/CrawlSmear</texPath>
+            <color>(225, 29, 53)</color>
+            <graphicClass>Graphic_ClusterTight</graphicClass>
+            <drawSize>0.9</drawSize>
+        </graphicData>
+    </ThingDef>
     <EffecterDef>
         <defName>GEB_Damage_FireRed</defName>
         <children>
@@ -798,6 +1046,17 @@
         <positionRadius>0.1</positionRadius>
     </EffecterDef>
 
+    <!-- MarsRed -->
+    <ThingDef ParentName="FilthBlood">
+        <defName>GEB_Filth_MarsRed_BloodSmear</defName>
+        <label>MarsRed Blood Smear</label>
+        <graphicData>
+            <texPath>Things/Filth/CrawlSmear</texPath>
+            <color>(194, 44, 29)</color>
+            <graphicClass>Graphic_ClusterTight</graphicClass>
+            <drawSize>0.9</drawSize>
+        </graphicData>
+    </ThingDef>
     <EffecterDef>
         <defName>GEB_Damage_MarsRed</defName>
         <children>
@@ -834,6 +1093,17 @@
         <positionRadius>0.1</positionRadius>
     </EffecterDef>
 
+    <!-- Cranberry -->
+    <ThingDef ParentName="FilthBlood">
+        <defName>GEB_Filth_Cranberry_BloodSmear</defName>
+        <label>Cranberry Blood Smear</label>
+        <graphicData>
+            <texPath>Things/Filth/CrawlSmear</texPath>
+            <color>(198, 8, 80)</color>
+            <graphicClass>Graphic_ClusterTight</graphicClass>
+            <drawSize>0.9</drawSize>
+        </graphicData>
+    </ThingDef>
     <EffecterDef>
         <defName>GEB_Damage_Cranberry</defName>
         <children>
@@ -870,6 +1140,17 @@
         <positionRadius>0.1</positionRadius>
     </EffecterDef>
 
+    <!-- Burgundy -->
+    <ThingDef ParentName="FilthBlood">
+        <defName>GEB_Filth_Burgundy_BloodSmear</defName>
+        <label>Burgundy Blood Smear</label>
+        <graphicData>
+            <texPath>Things/Filth/CrawlSmear</texPath>
+            <color>(152, 1, 46)</color>
+            <graphicClass>Graphic_ClusterTight</graphicClass>
+            <drawSize>0.9</drawSize>
+        </graphicData>
+    </ThingDef>
     <EffecterDef>
         <defName>GEB_Damage_Burgundy</defName>
         <children>
@@ -906,6 +1187,17 @@
         <positionRadius>0.1</positionRadius>
     </EffecterDef>
 
+    <!-- Merlot -->
+    <ThingDef ParentName="FilthBlood">
+        <defName>GEB_Filth_Merlot_BloodSmear</defName>
+        <label>Merlot Blood Smear</label>
+        <graphicData>
+            <texPath>Things/Filth/CrawlSmear</texPath>
+            <color>(140, 12, 3)</color>
+            <graphicClass>Graphic_ClusterTight</graphicClass>
+            <drawSize>0.9</drawSize>
+        </graphicData>
+    </ThingDef>
     <EffecterDef>
         <defName>GEB_Damage_Merlot</defName>
         <children>
@@ -943,6 +1235,17 @@
     </EffecterDef>
 
     <!--********************* White and Black *********************-->
+    <!-- White -->
+    <ThingDef ParentName="FilthBlood">
+        <defName>GEB_Filth_White_BloodSmear</defName>
+        <label>White Blood Smear</label>
+        <graphicData>
+            <texPath>Things/Filth/CrawlSmear</texPath>
+            <color>(222, 222, 222)</color>
+            <graphicClass>Graphic_ClusterTight</graphicClass>
+            <drawSize>0.9</drawSize>
+        </graphicData>
+    </ThingDef>
     <EffecterDef>
         <defName>GEB_Damage_White</defName>
         <children>
@@ -979,6 +1282,17 @@
         <positionRadius>0.1</positionRadius>
     </EffecterDef>
 
+    <!-- SilverShiner -->
+    <ThingDef ParentName="FilthBlood">
+        <defName>GEB_Filth_SilverShiner_BloodSmear</defName>
+        <label>SilverShiner Blood Smear</label>
+        <graphicData>
+            <texPath>Things/Filth/CrawlSmear</texPath>
+            <color>(178, 183, 187)</color>
+            <graphicClass>Graphic_ClusterTight</graphicClass>
+            <drawSize>0.9</drawSize>
+        </graphicData>
+    </ThingDef>
     <EffecterDef>
         <defName>GEB_Damage_SilverShiner</defName>
         <children>
@@ -1015,6 +1329,17 @@
         <positionRadius>0.1</positionRadius>
     </EffecterDef>
 
+    <!-- GhostGrey -->
+    <ThingDef ParentName="FilthBlood">
+        <defName>GEB_Filth_GhostGrey_BloodSmear</defName>
+        <label>GhostGrey Blood Smear</label>
+        <graphicData>
+            <texPath>Things/Filth/CrawlSmear</texPath>
+            <color>(140, 155, 148)</color>
+            <graphicClass>Graphic_ClusterTight</graphicClass>
+            <drawSize>0.9</drawSize>
+        </graphicData>
+    </ThingDef>
     <EffecterDef>
         <defName>GEB_Damage_GhostGrey</defName>
         <children>
@@ -1051,6 +1376,17 @@
         <positionRadius>0.1</positionRadius>
     </EffecterDef>
 
+    <!-- SilverSmoke -->
+    <ThingDef ParentName="FilthBlood">
+        <defName>GEB_Filth_SilverSmoke_BloodSmear</defName>
+        <label>SilverSmoke Blood Smear</label>
+        <graphicData>
+            <texPath>Things/Filth/CrawlSmear</texPath>
+            <color>(148, 155, 161)</color>
+            <graphicClass>Graphic_ClusterTight</graphicClass>
+            <drawSize>0.9</drawSize>
+        </graphicData>
+    </ThingDef>
     <EffecterDef>
         <defName>GEB_Damage_SilverSmoke</defName>
         <children>
@@ -1087,6 +1423,17 @@
         <positionRadius>0.1</positionRadius>
     </EffecterDef>
 
+    <!-- TinCan -->
+    <ThingDef ParentName="FilthBlood">
+        <defName>GEB_Filth_TinCan_BloodSmear</defName>
+        <label>TinCan Blood Smear</label>
+        <graphicData>
+            <texPath>Things/Filth/CrawlSmear</texPath>
+            <color>(194, 183, 177)</color>
+            <graphicClass>Graphic_ClusterTight</graphicClass>
+            <drawSize>0.9</drawSize>
+        </graphicData>
+    </ThingDef>
     <EffecterDef>
         <defName>GEB_Damage_TinCan</defName>
         <children>
@@ -1123,6 +1470,17 @@
         <positionRadius>0.1</positionRadius>
     </EffecterDef>
 
+    <!-- SmokeScreen -->
+    <ThingDef ParentName="FilthBlood">
+        <defName>GEB_Filth_SmokeScreen_BloodSmear</defName>
+        <label>SmokeScreen Blood Smear</label>
+        <graphicData>
+            <texPath>Things/Filth/CrawlSmear</texPath>
+            <color>(95, 96, 98)</color>
+            <graphicClass>Graphic_ClusterTight</graphicClass>
+            <drawSize>0.9</drawSize>
+        </graphicData>
+    </ThingDef>
     <EffecterDef>
         <defName>GEB_Damage_SmokeScreen</defName>
         <children>
@@ -1159,6 +1517,17 @@
         <positionRadius>0.1</positionRadius>
     </EffecterDef>
 
+    <!-- ForgedSteel -->
+    <ThingDef ParentName="FilthBlood">
+        <defName>GEB_Filth_ForgedSteel_BloodSmear</defName>
+        <label>ForgedSteel Blood Smear</label>
+        <graphicData>
+            <texPath>Things/Filth/CrawlSmear</texPath>
+            <color>(128, 163, 183)</color>
+            <graphicClass>Graphic_ClusterTight</graphicClass>
+            <drawSize>0.9</drawSize>
+        </graphicData>
+    </ThingDef>
     <EffecterDef>
         <defName>GEB_Damage_ForgedSteel</defName>
         <children>
@@ -1195,6 +1564,17 @@
         <positionRadius>0.1</positionRadius>
     </EffecterDef>
 
+    <!-- IronOre -->
+    <ThingDef ParentName="FilthBlood">
+        <defName>GEB_Filth_IronOre_BloodSmear</defName>
+        <label>IronOre Blood Smear</label>
+        <graphicData>
+            <texPath>Things/Filth/CrawlSmear</texPath>
+            <color>(106, 116, 125)</color>
+            <graphicClass>Graphic_ClusterTight</graphicClass>
+            <drawSize>0.9</drawSize>
+        </graphicData>
+    </ThingDef>
     <EffecterDef>
         <defName>GEB_Damage_IronOre</defName>
         <children>
@@ -1231,6 +1611,17 @@
         <positionRadius>0.1</positionRadius>
     </EffecterDef>
 
+    <!-- StormCloud -->
+    <ThingDef ParentName="FilthBlood">
+        <defName>GEB_Filth_StormCloud_BloodSmear</defName>
+        <label>StormCloud Blood Smear</label>
+        <graphicData>
+            <texPath>Things/Filth/CrawlSmear</texPath>
+            <color>(69, 86, 96)</color>
+            <graphicClass>Graphic_ClusterTight</graphicClass>
+            <drawSize>0.9</drawSize>
+        </graphicData>
+    </ThingDef>
     <EffecterDef>
         <defName>GEB_Damage_StormCloud</defName>
         <children>
@@ -1267,6 +1658,17 @@
         <positionRadius>0.1</positionRadius>
     </EffecterDef>
 
+    <!-- Black -->
+    <ThingDef ParentName="FilthBlood">
+        <defName>GEB_Filth_Black_BloodSmear</defName>
+        <label>Black Blood Smear</label>
+        <graphicData>
+            <texPath>Things/Filth/CrawlSmear</texPath>
+            <color>(44, 44, 44)</color>
+            <graphicClass>Graphic_ClusterTight</graphicClass>
+            <drawSize>0.9</drawSize>
+        </graphicData>
+    </ThingDef>
     <EffecterDef>
         <defName>GEB_Damage_Black</defName>
         <children>
@@ -1304,6 +1706,17 @@
     </EffecterDef>
 
     <!--********************* Brown *********************-->
+    <!-- Rattan -->
+    <ThingDef ParentName="FilthBlood">
+        <defName>GEB_Filth_Rattan_BloodSmear</defName>
+        <label>Rattan Blood Smear</label>
+        <graphicData>
+            <texPath>Things/Filth/CrawlSmear</texPath>
+            <color>(197, 150, 12)</color>
+            <graphicClass>Graphic_ClusterTight</graphicClass>
+            <drawSize>0.9</drawSize>
+        </graphicData>
+    </ThingDef>
     <EffecterDef>
         <defName>GEB_Damage_Rattan</defName>
         <children>
@@ -1340,6 +1753,17 @@
         <positionRadius>0.1</positionRadius>
     </EffecterDef>
 
+    <!-- MidasGold -->
+    <ThingDef ParentName="FilthBlood">
+        <defName>GEB_Filth_MidasGold_BloodSmear</defName>
+        <label>MidasGold Blood Smear</label>
+        <graphicData>
+            <texPath>Things/Filth/CrawlSmear</texPath>
+            <color>(241, 179, 16)</color>
+            <graphicClass>Graphic_ClusterTight</graphicClass>
+            <drawSize>0.9</drawSize>
+        </graphicData>
+    </ThingDef>
     <EffecterDef>
         <defName>GEB_Damage_MidasGold</defName>
         <children>
@@ -1376,6 +1800,17 @@
         <positionRadius>0.1</positionRadius>
     </EffecterDef>
 
+    <!-- BeesWax -->
+    <ThingDef ParentName="FilthBlood">
+        <defName>GEB_Filth_BeesWax_BloodSmear</defName>
+        <label>BeesWax Blood Smear</label>
+        <graphicData>
+            <texPath>Things/Filth/CrawlSmear</texPath>
+            <color>(200, 140, 18)</color>
+            <graphicClass>Graphic_ClusterTight</graphicClass>
+            <drawSize>0.9</drawSize>
+        </graphicData>
+    </ThingDef>
     <EffecterDef>
         <defName>GEB_Damage_BeesWax</defName>
         <children>
@@ -1412,6 +1847,17 @@
         <positionRadius>0.1</positionRadius>
     </EffecterDef>
 
+    <!-- Sunset -->
+    <ThingDef ParentName="FilthBlood">
+        <defName>GEB_Filth_Sunset_BloodSmear</defName>
+        <label>Sunset Blood Smear</label>
+        <graphicData>
+            <texPath>Things/Filth/CrawlSmear</texPath>
+            <color>(246, 128, 38)</color>
+            <graphicClass>Graphic_ClusterTight</graphicClass>
+            <drawSize>0.9</drawSize>
+        </graphicData>
+    </ThingDef>
     <EffecterDef>
         <defName>GEB_Damage_Sunset</defName>
         <children>
@@ -1448,6 +1894,17 @@
         <positionRadius>0.1</positionRadius>
     </EffecterDef>
 
+    <!-- Teak -->
+    <ThingDef ParentName="FilthBlood">
+        <defName>GEB_Filth_Teak_BloodSmear</defName>
+        <label>Teak Blood Smear</label>
+        <graphicData>
+            <texPath>Things/Filth/CrawlSmear</texPath>
+            <color>(174, 112, 11)</color>
+            <graphicClass>Graphic_ClusterTight</graphicClass>
+            <drawSize>0.9</drawSize>
+        </graphicData>
+    </ThingDef>
     <EffecterDef>
         <defName>GEB_Damage_Teak</defName>
         <children>
@@ -1484,6 +1941,17 @@
         <positionRadius>0.1</positionRadius>
     </EffecterDef>
 
+    <!-- Almond -->
+    <ThingDef ParentName="FilthBlood">
+        <defName>GEB_Filth_Almond_BloodSmear</defName>
+        <label>Almond Blood Smear</label>
+        <graphicData>
+            <texPath>Things/Filth/CrawlSmear</texPath>
+            <color>(207, 171, 121)</color>
+            <graphicClass>Graphic_ClusterTight</graphicClass>
+            <drawSize>0.9</drawSize>
+        </graphicData>
+    </ThingDef>
     <EffecterDef>
         <defName>GEB_Damage_Almond</defName>
         <children>
@@ -1520,6 +1988,17 @@
         <positionRadius>0.1</positionRadius>
     </EffecterDef>
 
+    <!-- DesertSand -->
+    <ThingDef ParentName="FilthBlood">
+        <defName>GEB_Filth_DesertSand_BloodSmear</defName>
+        <label>DesertSand Blood Smear</label>
+        <graphicData>
+            <texPath>Things/Filth/CrawlSmear</texPath>
+            <color>(145, 109, 0)</color>
+            <graphicClass>Graphic_ClusterTight</graphicClass>
+            <drawSize>0.9</drawSize>
+        </graphicData>
+    </ThingDef>
     <EffecterDef>
         <defName>GEB_Damage_DesertSand</defName>
         <children>
@@ -1556,6 +2035,17 @@
         <positionRadius>0.1</positionRadius>
     </EffecterDef>
 
+    <!-- Copper -->
+    <ThingDef ParentName="FilthBlood">
+        <defName>GEB_Filth_Copper_BloodSmear</defName>
+        <label>Copper Blood Smear</label>
+        <graphicData>
+            <texPath>Things/Filth/CrawlSmear</texPath>
+            <color>(222, 122, 28)</color>
+            <graphicClass>Graphic_ClusterTight</graphicClass>
+            <drawSize>0.9</drawSize>
+        </graphicData>
+    </ThingDef>
     <EffecterDef>
         <defName>GEB_Damage_Copper</defName>
         <children>
@@ -1592,6 +2082,17 @@
         <positionRadius>0.1</positionRadius>
     </EffecterDef>
 
+    <!-- Brown -->
+    <ThingDef ParentName="FilthBlood">
+        <defName>GEB_Filth_Brown_BloodSmear</defName>
+        <label>Brown Blood Smear</label>
+        <graphicData>
+            <texPath>Things/Filth/CrawlSmear</texPath>
+            <color>(153, 72, 9)</color>
+            <graphicClass>Graphic_ClusterTight</graphicClass>
+            <drawSize>0.9</drawSize>
+        </graphicData>
+    </ThingDef>
     <EffecterDef>
         <defName>GEB_Damage_Brown</defName>
         <children>
@@ -1628,6 +2129,17 @@
         <positionRadius>0.1</positionRadius>
     </EffecterDef>
 
+    <!-- Chesnut -->
+    <ThingDef ParentName="FilthBlood">
+        <defName>GEB_Filth_Chesnut_BloodSmear</defName>
+        <label>Chesnut Blood Smear</label>
+        <graphicData>
+            <texPath>Things/Filth/CrawlSmear</texPath>
+            <color>(169, 76, 15)</color>
+            <graphicClass>Graphic_ClusterTight</graphicClass>
+            <drawSize>0.9</drawSize>
+        </graphicData>
+    </ThingDef>
     <EffecterDef>
         <defName>GEB_Damage_Chesnut</defName>
         <children>
@@ -1664,6 +2176,17 @@
         <positionRadius>0.1</positionRadius>
     </EffecterDef>
 
+    <!-- Chocolate -->
+    <ThingDef ParentName="FilthBlood">
+        <defName>GEB_Filth_Chocolate_BloodSmear</defName>
+        <label>Chocolate Blood Smear</label>
+        <graphicData>
+            <texPath>Things/Filth/CrawlSmear</texPath>
+            <color>(67, 26, 22)</color>
+            <graphicClass>Graphic_ClusterTight</graphicClass>
+            <drawSize>0.9</drawSize>
+        </graphicData>
+    </ThingDef>
     <EffecterDef>
         <defName>GEB_Damage_Chocolate</defName>
         <children>
@@ -1701,6 +2224,17 @@
     </EffecterDef>
 
     <!--********************* Green *********************-->
+    <!-- Kiwi -->
+    <ThingDef ParentName="FilthBlood">
+        <defName>GEB_Filth_Kiwi_BloodSmear</defName>
+        <label>Kiwi Blood Smear</label>
+        <graphicData>
+            <texPath>Things/Filth/CrawlSmear</texPath>
+            <color>(182, 219, 165)</color>
+            <graphicClass>Graphic_ClusterTight</graphicClass>
+            <drawSize>0.9</drawSize>
+        </graphicData>
+    </ThingDef>
     <EffecterDef>
         <defName>GEB_Damage_Kiwi</defName>
         <children>
@@ -1737,6 +2271,17 @@
         <positionRadius>0.1</positionRadius>
     </EffecterDef>
 
+    <!-- PeaSoup -->
+    <ThingDef ParentName="FilthBlood">
+        <defName>GEB_Filth_PeaSoup_BloodSmear</defName>
+        <label>PeaSoup Blood Smear</label>
+        <graphicData>
+            <texPath>Things/Filth/CrawlSmear</texPath>
+            <color>(142, 198, 65)</color>
+            <graphicClass>Graphic_ClusterTight</graphicClass>
+            <drawSize>0.9</drawSize>
+        </graphicData>
+    </ThingDef>
     <EffecterDef>
         <defName>GEB_Damage_PeaSoup</defName>
         <children>
@@ -1773,6 +2318,17 @@
         <positionRadius>0.1</positionRadius>
     </EffecterDef>
 
+    <!-- Sage -->
+    <ThingDef ParentName="FilthBlood">
+        <defName>GEB_Filth_Sage_BloodSmear</defName>
+        <label>Sage Blood Smear</label>
+        <graphicData>
+            <texPath>Things/Filth/CrawlSmear</texPath>
+            <color>(55, 124, 43)</color>
+            <graphicClass>Graphic_ClusterTight</graphicClass>
+            <drawSize>0.9</drawSize>
+        </graphicData>
+    </ThingDef>
     <EffecterDef>
         <defName>GEB_Damage_Sage</defName>
         <children>
@@ -1809,6 +2365,17 @@
         <positionRadius>0.1</positionRadius>
     </EffecterDef>
 
+    <!-- Guacamole -->
+    <ThingDef ParentName="FilthBlood">
+        <defName>GEB_Filth_Guacamole_BloodSmear</defName>
+        <label>Guacamole Blood Smear</label>
+        <graphicData>
+            <texPath>Things/Filth/CrawlSmear</texPath>
+            <color>(72, 170, 67)</color>
+            <graphicClass>Graphic_ClusterTight</graphicClass>
+            <drawSize>0.9</drawSize>
+        </graphicData>
+    </ThingDef>
     <EffecterDef>
         <defName>GEB_Damage_Guacamole</defName>
         <children>
@@ -1845,6 +2412,17 @@
         <positionRadius>0.1</positionRadius>
     </EffecterDef>
 
+    <!-- Rainforest -->
+    <ThingDef ParentName="FilthBlood">
+        <defName>GEB_Filth_Rainforest_BloodSmear</defName>
+        <label>Rainforest Blood Smear</label>
+        <graphicData>
+            <texPath>Things/Filth/CrawlSmear</texPath>
+            <color>(26, 179, 115)</color>
+            <graphicClass>Graphic_ClusterTight</graphicClass>
+            <drawSize>0.9</drawSize>
+        </graphicData>
+    </ThingDef>
     <EffecterDef>
         <defName>GEB_Damage_Rainforest</defName>
         <children>
@@ -1881,6 +2459,17 @@
         <positionRadius>0.1</positionRadius>
     </EffecterDef>
 
+    <!-- OakLeaf -->
+    <ThingDef ParentName="FilthBlood">
+        <defName>GEB_Filth_OakLeaf_BloodSmear</defName>
+        <label>OakLeaf Blood Smear</label>
+        <graphicData>
+            <texPath>Things/Filth/CrawlSmear</texPath>
+            <color>(0, 101, 59)</color>
+            <graphicClass>Graphic_ClusterTight</graphicClass>
+            <drawSize>0.9</drawSize>
+        </graphicData>
+    </ThingDef>
     <EffecterDef>
         <defName>GEB_Damage_OakLeaf</defName>
         <children>
@@ -1917,6 +2506,17 @@
         <positionRadius>0.1</positionRadius>
     </EffecterDef>
 
+    <!-- Jade -->
+    <ThingDef ParentName="FilthBlood">
+        <defName>GEB_Filth_Jade_BloodSmear</defName>
+        <label>Jade Blood Smear</label>
+        <graphicData>
+            <texPath>Things/Filth/CrawlSmear</texPath>
+            <color>(2, 149, 143)</color>
+            <graphicClass>Graphic_ClusterTight</graphicClass>
+            <drawSize>0.9</drawSize>
+        </graphicData>
+    </ThingDef>
     <EffecterDef>
         <defName>GEB_Damage_Jade</defName>
         <children>
@@ -1953,6 +2553,17 @@
         <positionRadius>0.1</positionRadius>
     </EffecterDef>
 
+    <!-- Fern -->
+    <ThingDef ParentName="FilthBlood">
+        <defName>GEB_Filth_Fern_BloodSmear</defName>
+        <label>Fern Blood Smear</label>
+        <graphicData>
+            <texPath>Things/Filth/CrawlSmear</texPath>
+            <color>(0, 131, 100)</color>
+            <graphicClass>Graphic_ClusterTight</graphicClass>
+            <drawSize>0.9</drawSize>
+        </graphicData>
+    </ThingDef>
     <EffecterDef>
         <defName>GEB_Damage_Fern</defName>
         <children>
@@ -1989,6 +2600,17 @@
         <positionRadius>0.1</positionRadius>
     </EffecterDef>
 
+    <!-- Evergreen -->
+    <ThingDef ParentName="FilthBlood">
+        <defName>GEB_Filth_Evergreen_BloodSmear</defName>
+        <label>Evergreen Blood Smear</label>
+        <graphicData>
+            <texPath>Things/Filth/CrawlSmear</texPath>
+            <color>(1, 87, 62)</color>
+            <graphicClass>Graphic_ClusterTight</graphicClass>
+            <drawSize>0.9</drawSize>
+        </graphicData>
+    </ThingDef>
     <EffecterDef>
         <defName>GEB_Damage_Evergreen</defName>
         <children>
@@ -2025,6 +2647,17 @@
         <positionRadius>0.1</positionRadius>
     </EffecterDef>
 
+    <!-- Olive -->
+    <ThingDef ParentName="FilthBlood">
+        <defName>GEB_Filth_Olive_BloodSmear</defName>
+        <label>Olive Blood Smear</label>
+        <graphicData>
+            <texPath>Things/Filth/CrawlSmear</texPath>
+            <color>(104, 119, 24)</color>
+            <graphicClass>Graphic_ClusterTight</graphicClass>
+            <drawSize>0.9</drawSize>
+        </graphicData>
+    </ThingDef>
     <EffecterDef>
         <defName>GEB_Damage_Olive</defName>
         <children>
@@ -2061,6 +2694,17 @@
         <positionRadius>0.1</positionRadius>
     </EffecterDef>
 
+    <!-- DesertCamo -->
+    <ThingDef ParentName="FilthBlood">
+        <defName>GEB_Filth_DesertCamo_BloodSmear</defName>
+        <label>DesertCamo Blood Smear</label>
+        <graphicData>
+            <texPath>Things/Filth/CrawlSmear</texPath>
+            <color>(133, 124, 23)</color>
+            <graphicClass>Graphic_ClusterTight</graphicClass>
+            <drawSize>0.9</drawSize>
+        </graphicData>
+    </ThingDef>
     <EffecterDef>
         <defName>GEB_Damage_DesertCamo</defName>
         <children>
@@ -2097,6 +2741,17 @@
         <positionRadius>0.1</positionRadius>
     </EffecterDef>
 
+    <!-- Taupe -->
+    <ThingDef ParentName="FilthBlood">
+        <defName>GEB_Filth_Taupe_BloodSmear</defName>
+        <label>Taupe Blood Smear</label>
+        <graphicData>
+            <texPath>Things/Filth/CrawlSmear</texPath>
+            <color>(91, 84, 3)</color>
+            <graphicClass>Graphic_ClusterTight</graphicClass>
+            <drawSize>0.9</drawSize>
+        </graphicData>
+    </ThingDef>
     <EffecterDef>
         <defName>GEB_Damage_Taupe</defName>
         <children>
@@ -2134,6 +2789,17 @@
     </EffecterDef>
 
     <!--********************* Blue *********************-->
+    <!-- Teal -->
+    <ThingDef ParentName="FilthBlood">
+        <defName>GEB_Filth_Teal_BloodSmear</defName>
+        <label>Teal Blood Smear</label>
+        <graphicData>
+            <texPath>Things/Filth/CrawlSmear</texPath>
+            <color>(70, 196, 211)</color>
+            <graphicClass>Graphic_ClusterTight</graphicClass>
+            <drawSize>0.9</drawSize>
+        </graphicData>
+    </ThingDef>
     <EffecterDef>
         <defName>GEB_Damage_Teal</defName>
         <children>
@@ -2170,6 +2836,17 @@
         <positionRadius>0.1</positionRadius>
     </EffecterDef>
 
+    <!-- Denim -->
+    <ThingDef ParentName="FilthBlood">
+        <defName>GEB_Filth_Denim_BloodSmear</defName>
+        <label>Denim Blood Smear</label>
+        <graphicData>
+            <texPath>Things/Filth/CrawlSmear</texPath>
+            <color>(79, 145, 205)</color>
+            <graphicClass>Graphic_ClusterTight</graphicClass>
+            <drawSize>0.9</drawSize>
+        </graphicData>
+    </ThingDef>
     <EffecterDef>
         <defName>GEB_Damage_Denim</defName>
         <children>
@@ -2206,6 +2883,17 @@
         <positionRadius>0.1</positionRadius>
     </EffecterDef>
 
+    <!-- CoolMint -->
+    <ThingDef ParentName="FilthBlood">
+        <defName>GEB_Filth_CoolMint_BloodSmear</defName>
+        <label>CoolMint Blood Smear</label>
+        <graphicData>
+            <texPath>Things/Filth/CrawlSmear</texPath>
+            <color>(1, 178, 149)</color>
+            <graphicClass>Graphic_ClusterTight</graphicClass>
+            <drawSize>0.9</drawSize>
+        </graphicData>
+    </ThingDef>
     <EffecterDef>
         <defName>GEB_Damage_CoolMint</defName>
         <children>
@@ -2242,6 +2930,17 @@
         <positionRadius>0.1</positionRadius>
     </EffecterDef>
 
+    <!-- IslandLagoon -->
+    <ThingDef ParentName="FilthBlood">
+        <defName>GEB_Filth_IslandLagoon_BloodSmear</defName>
+        <label>IslandLagoon Blood Smear</label>
+        <graphicData>
+            <texPath>Things/Filth/CrawlSmear</texPath>
+            <color>(1, 177, 175)</color>
+            <graphicClass>Graphic_ClusterTight</graphicClass>
+            <drawSize>0.9</drawSize>
+        </graphicData>
+    </ThingDef>
     <EffecterDef>
         <defName>GEB_Damage_IslandLagoon</defName>
         <children>
@@ -2278,6 +2977,17 @@
         <positionRadius>0.1</positionRadius>
     </EffecterDef>
 
+    <!-- Bluegill -->
+    <ThingDef ParentName="FilthBlood">
+        <defName>GEB_Filth_Bluegill_BloodSmear</defName>
+        <label>Bluegill Blood Smear</label>
+        <graphicData>
+            <texPath>Things/Filth/CrawlSmear</texPath>
+            <color>(0, 105, 170)</color>
+            <graphicClass>Graphic_ClusterTight</graphicClass>
+            <drawSize>0.9</drawSize>
+        </graphicData>
+    </ThingDef>
     <EffecterDef>
         <defName>GEB_Damage_Bluegill</defName>
         <children>
@@ -2314,6 +3024,17 @@
         <positionRadius>0.1</positionRadius>
     </EffecterDef>
 
+    <!-- BlueSuede -->
+    <ThingDef ParentName="FilthBlood">
+        <defName>GEB_Filth_BlueSuede_BloodSmear</defName>
+        <label>BlueSuede Blood Smear</label>
+        <graphicData>
+            <texPath>Things/Filth/CrawlSmear</texPath>
+            <color>(19, 72, 140)</color>
+            <graphicClass>Graphic_ClusterTight</graphicClass>
+            <drawSize>0.9</drawSize>
+        </graphicData>
+    </ThingDef>
     <EffecterDef>
         <defName>GEB_Damage_BlueSuede</defName>
         <children>
@@ -2350,6 +3071,17 @@
         <positionRadius>0.1</positionRadius>
     </EffecterDef>
 
+    <!-- SummerSky -->
+    <ThingDef ParentName="FilthBlood">
+        <defName>GEB_Filth_SummerSky_BloodSmear</defName>
+        <label>SummerSky Blood Smear</label>
+        <graphicData>
+            <texPath>Things/Filth/CrawlSmear</texPath>
+            <color>(0, 158, 221)</color>
+            <graphicClass>Graphic_ClusterTight</graphicClass>
+            <drawSize>0.9</drawSize>
+        </graphicData>
+    </ThingDef>
     <EffecterDef>
         <defName>GEB_Damage_SummerSky</defName>
         <children>
@@ -2386,6 +3118,17 @@
         <positionRadius>0.1</positionRadius>
     </EffecterDef>
 
+    <!-- TidalPool -->
+    <ThingDef ParentName="FilthBlood">
+        <defName>GEB_Filth_TidalPool_BloodSmear</defName>
+        <label>TidalPool Blood Smear</label>
+        <graphicData>
+            <texPath>Things/Filth/CrawlSmear</texPath>
+            <color>(1, 90, 132)</color>
+            <graphicClass>Graphic_ClusterTight</graphicClass>
+            <drawSize>0.9</drawSize>
+        </graphicData>
+    </ThingDef>
     <EffecterDef>
         <defName>GEB_Damage_TidalPool</defName>
         <children>
@@ -2422,6 +3165,17 @@
         <positionRadius>0.1</positionRadius>
     </EffecterDef>
 
+    <!-- MauiSurf -->
+    <ThingDef ParentName="FilthBlood">
+        <defName>GEB_Filth_MauiSurf_BloodSmear</defName>
+        <label>MauiSurf Blood Smear</label>
+        <graphicData>
+            <texPath>Things/Filth/CrawlSmear</texPath>
+            <color>(1, 181, 204)</color>
+            <graphicClass>Graphic_ClusterTight</graphicClass>
+            <drawSize>0.9</drawSize>
+        </graphicData>
+    </ThingDef>
     <EffecterDef>
         <defName>GEB_Damage_MauiSurf</defName>
         <children>
@@ -2458,6 +3212,17 @@
         <positionRadius>0.1</positionRadius>
     </EffecterDef>
 
+    <!-- CoolAzul -->
+    <ThingDef ParentName="FilthBlood">
+        <defName>GEB_Filth_CoolAzul_BloodSmear</defName>
+        <label>CoolAzul Blood Smear</label>
+        <graphicData>
+            <texPath>Things/Filth/CrawlSmear</texPath>
+            <color>(0, 113, 143)</color>
+            <graphicClass>Graphic_ClusterTight</graphicClass>
+            <drawSize>0.9</drawSize>
+        </graphicData>
+    </ThingDef>
     <EffecterDef>
         <defName>GEB_Damage_CoolAzul</defName>
         <children>
@@ -2494,6 +3259,17 @@
         <positionRadius>0.1</positionRadius>
     </EffecterDef>
 
+    <!-- RegalBlue -->
+    <ThingDef ParentName="FilthBlood">
+        <defName>GEB_Filth_RegalBlue_BloodSmear</defName>
+        <label>RegalBlue Blood Smear</label>
+        <graphicData>
+            <texPath>Things/Filth/CrawlSmear</texPath>
+            <color>(31, 67, 138)</color>
+            <graphicClass>Graphic_ClusterTight</graphicClass>
+            <drawSize>0.9</drawSize>
+        </graphicData>
+    </ThingDef>
     <EffecterDef>
         <defName>GEB_Damage_RegalBlue</defName>
         <children>
@@ -2530,6 +3306,17 @@
         <positionRadius>0.1</positionRadius>
     </EffecterDef>
 
+    <!-- WildBlueberry -->
+    <ThingDef ParentName="FilthBlood">
+        <defName>GEB_Filth_WildBlueberry_BloodSmear</defName>
+        <label>WildBlueberry Blood Smear</label>
+        <graphicData>
+            <texPath>Things/Filth/CrawlSmear</texPath>
+            <color>(1, 104, 179)</color>
+            <graphicClass>Graphic_ClusterTight</graphicClass>
+            <drawSize>0.9</drawSize>
+        </graphicData>
+    </ThingDef>
     <EffecterDef>
         <defName>GEB_Damage_WildBlueberry</defName>
         <children>
@@ -2566,6 +3353,17 @@
         <positionRadius>0.1</positionRadius>
     </EffecterDef>
 
+    <!-- Cobalt -->
+    <ThingDef ParentName="FilthBlood">
+        <defName>GEB_Filth_Cobalt_BloodSmear</defName>
+        <label>Cobalt Blood Smear</label>
+        <graphicData>
+            <texPath>Things/Filth/CrawlSmear</texPath>
+            <color>(0, 72, 144)</color>
+            <graphicClass>Graphic_ClusterTight</graphicClass>
+            <drawSize>0.9</drawSize>
+        </graphicData>
+    </ThingDef>
     <EffecterDef>
         <defName>GEB_Damage_Cobalt</defName>
         <children>
@@ -2602,6 +3400,17 @@
         <positionRadius>0.1</positionRadius>
     </EffecterDef>
 
+    <!-- BlueMarlin -->
+    <ThingDef ParentName="FilthBlood">
+        <defName>GEB_Filth_BlueMarlin_BloodSmear</defName>
+        <label>BlueMarlin Blood Smear</label>
+        <graphicData>
+            <texPath>Things/Filth/CrawlSmear</texPath>
+            <color>(0, 81, 136)</color>
+            <graphicClass>Graphic_ClusterTight</graphicClass>
+            <drawSize>0.9</drawSize>
+        </graphicData>
+    </ThingDef>
     <EffecterDef>
         <defName>GEB_Damage_BlueMarlin</defName>
         <children>
@@ -2638,6 +3447,17 @@
         <positionRadius>0.1</positionRadius>
     </EffecterDef>
 
+    <!-- Blurple -->
+    <ThingDef ParentName="FilthBlood">
+        <defName>GEB_Filth_Blurple_BloodSmear</defName>
+        <label>Blurple Blood Smear</label>
+        <graphicData>
+            <texPath>Things/Filth/CrawlSmear</texPath>
+            <color>(39, 54, 147)</color>
+            <graphicClass>Graphic_ClusterTight</graphicClass>
+            <drawSize>0.9</drawSize>
+        </graphicData>
+    </ThingDef>
     <EffecterDef>
         <defName>GEB_Damage_Blurple</defName>
         <children>
@@ -2674,6 +3494,17 @@
         <positionRadius>0.1</positionRadius>
     </EffecterDef>
 
+    <!-- Gulfstream -->
+    <ThingDef ParentName="FilthBlood">
+        <defName>GEB_Filth_Gulfstream_BloodSmear</defName>
+        <label>Gulfstream Blood Smear</label>
+        <graphicData>
+            <texPath>Things/Filth/CrawlSmear</texPath>
+            <color>(0, 74, 101)</color>
+            <graphicClass>Graphic_ClusterTight</graphicClass>
+            <drawSize>0.9</drawSize>
+        </graphicData>
+    </ThingDef>
     <EffecterDef>
         <defName>GEB_Damage_Gulfstream</defName>
         <children>
@@ -2710,6 +3541,17 @@
         <positionRadius>0.1</positionRadius>
     </EffecterDef>
 
+    <!-- DeepSea -->
+    <ThingDef ParentName="FilthBlood">
+        <defName>GEB_Filth_DeepSea_BloodSmear</defName>
+        <label>DeepSea Blood Smear</label>
+        <graphicData>
+            <texPath>Things/Filth/CrawlSmear</texPath>
+            <color>(1, 85, 129)</color>
+            <graphicClass>Graphic_ClusterTight</graphicClass>
+            <drawSize>0.9</drawSize>
+        </graphicData>
+    </ThingDef>
     <EffecterDef>
         <defName>GEB_Damage_DeepSea</defName>
         <children>
