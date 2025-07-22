@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+    <Operation Class="PatchOperationSequence">
+        <operations>
+            <li Class="PatchOperationAdd">
+                <xpath>/Defs/XenotypeDef[defName="MBSXT_Damphir"]/genes</xpath>
+                <value>
+                    <li>GEB_Blood_Purple</li>
+                </value>
+            </li>
+
+            <li Class="PatchOperationAdd">
+                <xpath>/Defs/XenotypeDef[defName="MBSXT_Viperal"]/genes</xpath>
+                <value>
+                    <li>GEB_Blood_Fuchsia</li>
+                </value>
+            </li>
+
+            <li Class="PatchOperationAdd">
+                <xpath>/Defs/XenotypeDef[defName="MBSXT_Artifexian"]/genes</xpath>
+                <value>
+                    <li>GEB_Blood_Rose</li>
+                </value>
+            </li>
+
+            <li Class="PatchOperationAdd">
+                <xpath>/Defs/XenotypeDef[defName="MBSXT_Felionkin"]/genes</xpath>
+                <value>
+                    <li>GEB_Blood_Raspberry</li>
+                </value>
+            </li>
+
+            <li Class="PatchOperationAdd">
+                <xpath>/Defs/XenotypeDef[defName="MBSXT_Canuskin"]/genes</xpath>
+                <value>
+                    <li>GEB_Blood_Raspberry</li>
+                </value>
+            </li>
+
+            <li Class="PatchOperationAdd">
+                <xpath>/Defs/XenotypeDef[defName="MBSXT_Toxinborn"]/genes</xpath>
+                <value>
+                    <li>GEB_Blood_Almond</li>
+                </value>
+            </li>
+
+            <li Class="PatchOperationAdd">
+                <xpath>/Defs/XenotypeDef[defName="MBSXT_Reaver"]/genes</xpath>
+                <value>
+                    <li>GEB_Blood_White</li>
+                </value>
+            </li>
+
+            <li Class="PatchOperationAdd">
+                <xpath>/Defs/XenotypeDef[defName="MBSXT_Harmonite"]/genes</xpath>
+                <value>
+                    <li>GEB_Blood_BlueSuede</li>
+                </value>
+            </li>
+
+            <li Class="PatchOperationAdd">
+                <xpath>/Defs/XenotypeDef[defName="MBSXT_Battleborne"]/genes</xpath>
+                <value>
+                    <li>GEB_Blood_Merlot</li>
+                </value>
+            </li>
+
+            <li Class="PatchOperationAdd">
+                <xpath>/Defs/XenotypeDef[defName="MBSXT_Oni"]/genes</xpath>
+                <value>
+                    <li>GEB_Blood_MidasGold</li>
+                </value>
+            </li>
+        </operations>
+    </Operation>
+</Patch>

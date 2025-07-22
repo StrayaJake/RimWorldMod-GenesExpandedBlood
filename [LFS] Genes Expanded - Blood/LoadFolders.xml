@@ -36,5 +36,6 @@
         <li IfModActive="LimeTreeSnake.Xenotech">Compatibility/LTSXenoTech</li>
         <li IfModActive="ReSplice.XOTR.Charmweavers">Compatibility/Charmweavers</li>
         <li IfModActive="ElSov.Beliar">Compatibility/Beliar</li>
+        <li IfModActive="MoreBiotechStyleXenotypes.Mod">Compatibility/MoreBiotechStyleXenotypes</li>
     </v1.6>
 </loadFolders>
