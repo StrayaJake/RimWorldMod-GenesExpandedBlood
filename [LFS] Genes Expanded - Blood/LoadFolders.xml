@@ -37,5 +37,6 @@
         <li IfModActive="ReSplice.XOTR.Charmweavers">Compatibility/Charmweavers</li>
         <li IfModActive="ElSov.Beliar">Compatibility/Beliar</li>
         <li IfModActive="MoreBiotechStyleXenotypes.Mod">Compatibility/MoreBiotechStyleXenotypes</li>
+        <li IfModActive="Ludeon.RimWorld.Odyssey">Compatibility/RMStarJack/</li>
     </v1.6>
 </loadFolders>
