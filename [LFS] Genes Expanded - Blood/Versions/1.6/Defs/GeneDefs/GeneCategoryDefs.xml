@@ -4,6 +4,5 @@
     <defName>GEB_Blood_Color</defName>
     <label>Cosmetic - Blood Color</label>
     <displayPriorityInXenotype>-19999</displayPriorityInXenotype>
-    <displayPriorityInGenepack>-137</displayPriorityInGenepack>
   </GeneCategoryDef>
 </Defs>

@@ -5,7 +5,7 @@
         <biostatCpx>0</biostatCpx>
         <randomChosen>true</randomChosen>
         <displayCategory>GEB_Blood_Color</displayCategory>
-
+        <canGenerateInGeneSet>false</canGenerateInGeneSet>
         <exclusionTags>
             <li>BloodColor</li>
             <li>AG_BloodType</li>
@@ -13,6 +13,7 @@
             <li>Blood</li>            
         </exclusionTags>
     </GeneDef>
+    
     <!--********************* Yellow *********************-->
     <GeneDef ParentName="GeneBloodColorBase">
         <defName>GEB_Blood_Yellowfin</defName>
