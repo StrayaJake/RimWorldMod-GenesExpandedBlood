@@ -39,4 +39,25 @@
         <li IfModActive="MoreBiotechStyleXenotypes.Mod">Compatibility/MoreBiotechStyleXenotypes</li>
         <li IfModActive="Ludeon.RimWorld.Odyssey">Compatibility/RMStarJack/</li>
     </v1.6>
+    <v1.7>
+        <li>Versions/1.7</li>
+        <li>Common</li>
+        <li IfModActive="lazyfridaystudio.xenosexpanded">Compatibility/LFSXenosExpanded/</li>
+        <li IfModActive="det.boglegs">Compatibility/DetBoglegs/</li>
+        <li IfModActive="det.venators">Compatibility/DetVenators</li>
+        <li IfModActive="det.avaloi">Compatibility/DetAvaloi</li>
+        <li IfModActive="vanillaracesexpanded.archon">Compatibility/VREArchon</li>
+        <li IfModActive="vanillaracesexpanded.pigskin">Compatibility/VREPigSkin</li>
+        <li IfModActive="vanillaracesexpanded.lycanthrope">Compatibility/VRELycanthrope</li>
+        <li IfModActive="vanillaracesexpanded.saurid">Compatibility/VRESaurid</li>
+        <li IfModActive="vanillaracesexpanded.highmate">Compatibility/VREHighMate</li>
+        <li IfModActive="vanillaracesexpanded.sanguophage">Compatibility/VRESanguophage</li>
+        <li IfModActive="Sov.ElseudPathf">Compatibility/Nephilim</li>
+        <li IfModActive="Turnovus.Biotech.IntegratedXenotypes">Compatibility/IntegratedXenos</li>
+        <li IfModActive="LimeTreeSnake.Xenotech">Compatibility/LTSXenoTech</li>
+        <li IfModActive="ReSplice.XOTR.Charmweavers">Compatibility/Charmweavers</li>
+        <li IfModActive="ElSov.Beliar">Compatibility/Beliar</li>
+        <li IfModActive="MoreBiotechStyleXenotypes.Mod">Compatibility/MoreBiotechStyleXenotypes</li>
+        <li IfModActive="Ludeon.RimWorld.Odyssey">Compatibility/RMStarJack/</li>
+    </v1.7>
 </loadFolders>

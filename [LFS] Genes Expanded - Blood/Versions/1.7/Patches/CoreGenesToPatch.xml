@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+    <Operation Class="PatchOperationSequence">
+        <operations>
+            <li Class="PatchOperationAdd">
+                <xpath>/Defs/XenotypeDef[defName="Dirtmole"]/genes</xpath>
+                <value>
+                    <li>GEB_Blood_IronOre</li>
+                </value>
+            </li>
+
+            <li Class="PatchOperationAdd">
+                <xpath>/Defs/XenotypeDef[defName="Genie"]/genes</xpath>
+                <value>
+                    <li>GEB_Blood_Redfish</li>
+                </value>
+            </li>
+
+            <li Class="PatchOperationAdd">
+                <xpath>/Defs/XenotypeDef[defName="Pigskin"]/genes</xpath>
+                <value>
+                    <li>GEB_Blood_Rose</li>
+                </value>
+            </li>
+
+            <li Class="PatchOperationAdd">
+                <xpath>/Defs/XenotypeDef[defName="Impid"]/genes</xpath>
+                <value>
+                    <li>GEB_Blood_Tangerine</li>
+                </value>
+            </li>
+
+            <li Class="PatchOperationAdd">
+                <xpath>/Defs/XenotypeDef[defName="Waster"]/genes</xpath>
+                <value>
+                    <li>GEB_Blood_PeaSoup</li>
+                </value>
+            </li>
+
+            <li Class="PatchOperationAdd">
+                <xpath>/Defs/XenotypeDef[defName="Yttakin"]/genes</xpath>
+                <value>
+                    <li>GEB_Blood_Merlot</li>
+                </value>
+            </li>
+
+            <li Class="PatchOperationAdd">
+                <xpath>/Defs/XenotypeDef[defName="Highmate"]/genes</xpath>
+                <value>
+                    <li>GEB_Blood_White</li>
+                </value>
+            </li>
+        </operations>
+    </Operation>
+</Patch>
